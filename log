@@ -1,0 +1,2805 @@
+Installing Dorothy into /home/user/.local/share/dorothy
+Cloning into '/home/user/.local/share/dorothy'...
+remote: Enumerating objects: 23632, done.[K
+remote: Counting objects:   0% (1/2663)[Kremote: Counting objects:   1% (27/2663)[Kremote: Counting objects:   2% (54/2663)[Kremote: Counting objects:   3% (80/2663)[Kremote: Counting objects:   4% (107/2663)[Kremote: Counting objects:   5% (134/2663)[Kremote: Counting objects:   6% (160/2663)[Kremote: Counting objects:   7% (187/2663)[Kremote: Counting objects:   8% (214/2663)[Kremote: Counting objects:   9% (240/2663)[Kremote: Counting objects:  10% (267/2663)[Kremote: Counting objects:  11% (293/2663)[Kremote: Counting objects:  12% (320/2663)[Kremote: Counting objects:  13% (347/2663)[Kremote: Counting objects:  14% (373/2663)[Kremote: Counting objects:  15% (400/2663)[Kremote: Counting objects:  16% (427/2663)[Kremote: Counting objects:  17% (453/2663)[Kremote: Counting objects:  18% (480/2663)[Kremote: Counting objects:  19% (506/2663)[Kremote: Counting objects:  20% (533/2663)[Kremote: Counting objects:  21% (560/2663)[Kremote: Counting objects:  22% (586/2663)[Kremote: Counting objects:  23% (613/2663)[Kremote: Counting objects:  24% (640/2663)[Kremote: Counting objects:  25% (666/2663)[Kremote: Counting objects:  26% (693/2663)[Kremote: Counting objects:  27% (720/2663)[Kremote: Counting objects:  28% (746/2663)[Kremote: Counting objects:  29% (773/2663)[Kremote: Counting objects:  30% (799/2663)[Kremote: Counting objects:  31% (826/2663)[Kremote: Counting objects:  32% (853/2663)[Kremote: Counting objects:  33% (879/2663)[Kremote: Counting objects:  34% (906/2663)[Kremote: Counting objects:  35% (933/2663)[Kremote: Counting objects:  36% (959/2663)[Kremote: Counting objects:  37% (986/2663)[Kremote: Counting objects:  38% (1012/2663)[Kremote: Counting objects:  39% (1039/2663)[Kremote: Counting objects:  40% (1066/2663)[Kremote: Counting objects:  41% (1092/2663)[Kremote: Counting objects:  42% (1119/2663)[Kremote: Counting objects:  43% (1146/2663)[Kremote: Counting objects:  44% (1172/2663)[Kremote: Counting objects:  45% (1199/2663)[Kremote: Counting objects:  46% (1225/2663)[Kremote: Counting objects:  47% (1252/2663)[Kremote: Counting objects:  48% (1279/2663)[Kremote: Counting objects:  49% (1305/2663)[Kremote: Counting objects:  50% (1332/2663)[Kremote: Counting objects:  51% (1359/2663)[Kremote: Counting objects:  52% (1385/2663)[Kremote: Counting objects:  53% (1412/2663)[Kremote: Counting objects:  54% (1439/2663)[Kremote: Counting objects:  55% (1465/2663)[Kremote: Counting objects:  56% (1492/2663)[Kremote: Counting objects:  57% (1518/2663)[Kremote: Counting objects:  58% (1545/2663)[Kremote: Counting objects:  59% (1572/2663)[Kremote: Counting objects:  60% (1598/2663)[Kremote: Counting objects:  61% (1625/2663)[Kremote: Counting objects:  62% (1652/2663)[Kremote: Counting objects:  63% (1678/2663)[Kremote: Counting objects:  64% (1705/2663)[Kremote: Counting objects:  65% (1731/2663)[Kremote: Counting objects:  66% (1758/2663)[Kremote: Counting objects:  67% (1785/2663)[Kremote: Counting objects:  68% (1811/2663)[Kremote: Counting objects:  69% (1838/2663)[Kremote: Counting objects:  70% (1865/2663)[Kremote: Counting objects:  71% (1891/2663)[Kremote: Counting objects:  72% (1918/2663)[Kremote: Counting objects:  73% (1944/2663)[Kremote: Counting objects:  74% (1971/2663)[Kremote: Counting objects:  75% (1998/2663)[Kremote: Counting objects:  76% (2024/2663)[Kremote: Counting objects:  77% (2051/2663)[Kremote: Counting objects:  78% (2078/2663)[Kremote: Counting objects:  79% (2104/2663)[Kremote: Counting objects:  80% (2131/2663)[Kremote: Counting objects:  81% (2158/2663)[Kremote: Counting objects:  82% (2184/2663)[Kremote: Counting objects:  83% (2211/2663)[Kremote: Counting objects:  84% (2237/2663)[Kremote: Counting objects:  85% (2264/2663)[Kremote: Counting objects:  86% (2291/2663)[Kremote: Counting objects:  87% (2317/2663)[Kremote: Counting objects:  88% (2344/2663)[Kremote: Counting objects:  89% (2371/2663)[Kremote: Counting objects:  90% (2397/2663)[Kremote: Counting objects:  91% (2424/2663)[Kremote: Counting objects:  92% (2450/2663)[Kremote: Counting objects:  93% (2477/2663)[Kremote: Counting objects:  94% (2504/2663)[Kremote: Counting objects:  95% (2530/2663)[Kremote: Counting objects:  96% (2557/2663)[Kremote: Counting objects:  97% (2584/2663)[Kremote: Counting objects:  98% (2610/2663)[Kremote: Counting objects:  99% (2637/2663)[Kremote: Counting objects: 100% (2663/2663)[Kremote: Counting objects: 100% (2663/2663), done.[K
+remote: Compressing objects:   0% (1/610)[Kremote: Compressing objects:   1% (7/610)[Kremote: Compressing objects:   2% (13/610)[Kremote: Compressing objects:   3% (19/610)[Kremote: Compressing objects:   4% (25/610)[Kremote: Compressing objects:   5% (31/610)[Kremote: Compressing objects:   6% (37/610)[Kremote: Compressing objects:   7% (43/610)[Kremote: Compressing objects:   8% (49/610)[Kremote: Compressing objects:   9% (55/610)[Kremote: Compressing objects:  10% (61/610)[Kremote: Compressing objects:  11% (68/610)[Kremote: Compressing objects:  12% (74/610)[Kremote: Compressing objects:  13% (80/610)[Kremote: Compressing objects:  14% (86/610)[Kremote: Compressing objects:  15% (92/610)[Kremote: Compressing objects:  16% (98/610)[Kremote: Compressing objects:  17% (104/610)[Kremote: Compressing objects:  18% (110/610)[Kremote: Compressing objects:  19% (116/610)[Kremote: Compressing objects:  20% (122/610)[Kremote: Compressing objects:  21% (129/610)[Kremote: Compressing objects:  22% (135/610)[Kremote: Compressing objects:  23% (141/610)[Kremote: Compressing objects:  24% (147/610)[Kremote: Compressing objects:  25% (153/610)[Kremote: Compressing objects:  26% (159/610)[Kremote: Compressing objects:  27% (165/610)[Kremote: Compressing objects:  28% (171/610)[Kremote: Compressing objects:  29% (177/610)[Kremote: Compressing objects:  30% (183/610)[Kremote: Compressing objects:  31% (190/610)[Kremote: Compressing objects:  32% (196/610)[Kremote: Compressing objects:  33% (202/610)[Kremote: Compressing objects:  34% (208/610)[Kremote: Compressing objects:  35% (214/610)[Kremote: Compressing objects:  36% (220/610)[Kremote: Compressing objects:  37% (226/610)[Kremote: Compressing objects:  38% (232/610)[Kremote: Compressing objects:  39% (238/610)[Kremote: Compressing objects:  40% (244/610)[Kremote: Compressing objects:  41% (251/610)[Kremote: Compressing objects:  42% (257/610)[Kremote: Compressing objects:  43% (263/610)[Kremote: Compressing objects:  44% (269/610)[Kremote: Compressing objects:  45% (275/610)[Kremote: Compressing objects:  46% (281/610)[Kremote: Compressing objects:  47% (287/610)[Kremote: Compressing objects:  48% (293/610)[Kremote: Compressing objects:  49% (299/610)[Kremote: Compressing objects:  50% (305/610)[Kremote: Compressing objects:  51% (312/610)[Kremote: Compressing objects:  52% (318/610)[Kremote: Compressing objects:  53% (324/610)[Kremote: Compressing objects:  54% (330/610)[Kremote: Compressing objects:  55% (336/610)[Kremote: Compressing objects:  56% (342/610)[Kremote: Compressing objects:  57% (348/610)[Kremote: Compressing objects:  58% (354/610)[Kremote: Compressing objects:  59% (360/610)[Kremote: Compressing objects:  60% (366/610)[Kremote: Compressing objects:  61% (373/610)[Kremote: Compressing objects:  62% (379/610)[Kremote: Compressing objects:  63% (385/610)[Kremote: Compressing objects:  64% (391/610)[Kremote: Compressing objects:  65% (397/610)[Kremote: Compressing objects:  66% (403/610)[Kremote: Compressing objects:  67% (409/610)[Kremote: Compressing objects:  68% (415/610)[Kremote: Compressing objects:  69% (421/610)[Kremote: Compressing objects:  70% (427/610)[Kremote: Compressing objects:  71% (434/610)[Kremote: Compressing objects:  72% (440/610)[Kremote: Compressing objects:  73% (446/610)[Kremote: Compressing objects:  74% (452/610)[Kremote: Compressing objects:  75% (458/610)[Kremote: Compressing objects:  76% (464/610)[Kremote: Compressing objects:  77% (470/610)[Kremote: Compressing objects:  78% (476/610)[Kremote: Compressing objects:  79% (482/610)[Kremote: Compressing objects:  80% (488/610)[Kremote: Compressing objects:  81% (495/610)[Kremote: Compressing objects:  82% (501/610)[Kremote: Compressing objects:  83% (507/610)[Kremote: Compressing objects:  84% (513/610)[Kremote: Compressing objects:  85% (519/610)[Kremote: Compressing objects:  86% (525/610)[Kremote: Compressing objects:  87% (531/610)[Kremote: Compressing objects:  88% (537/610)[Kremote: Compressing objects:  89% (543/610)[Kremote: Compressing objects:  90% (549/610)[Kremote: Compressing objects:  91% (556/610)[Kremote: Compressing objects:  92% (562/610)[Kremote: Compressing objects:  93% (568/610)[Kremote: Compressing objects:  94% (574/610)[Kremote: Compressing objects:  95% (580/610)[Kremote: Compressing objects:  96% (586/610)[Kremote: Compressing objects:  97% (592/610)[Kremote: Compressing objects:  98% (598/610)[Kremote: Compressing objects:  99% (604/610)[Kremote: Compressing objects: 100% (610/610)[Kremote: Compressing objects: 100% (610/610), done.[K
+Receiving objects:   0% (1/23632)Receiving objects:   1% (237/23632)Receiving objects:   2% (473/23632)Receiving objects:   3% (709/23632)Receiving objects:   4% (946/23632)Receiving objects:   5% (1182/23632)Receiving objects:   6% (1418/23632)Receiving objects:   7% (1655/23632)Receiving objects:   8% (1891/23632)Receiving objects:   9% (2127/23632)Receiving objects:  10% (2364/23632)Receiving objects:  11% (2600/23632)Receiving objects:  12% (2836/23632)Receiving objects:  13% (3073/23632)Receiving objects:  14% (3309/23632)Receiving objects:  15% (3545/23632)Receiving objects:  16% (3782/23632)Receiving objects:  17% (4018/23632)Receiving objects:  18% (4254/23632)Receiving objects:  19% (4491/23632)Receiving objects:  20% (4727/23632)Receiving objects:  21% (4963/23632)Receiving objects:  22% (5200/23632)Receiving objects:  23% (5436/23632)Receiving objects:  24% (5672/23632)Receiving objects:  25% (5908/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  26% (6145/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  27% (6381/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  28% (6617/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  29% (6854/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  30% (7090/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  31% (7326/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  32% (7563/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  33% (7799/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  34% (8035/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  35% (8272/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  36% (8508/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  37% (8744/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  38% (8981/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  39% (9217/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  40% (9453/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  41% (9690/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  42% (9926/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  43% (10162/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  44% (10399/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  45% (10635/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  46% (10871/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  47% (11108/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  48% (11344/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  49% (11580/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  50% (11816/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  51% (12053/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  52% (12289/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  53% (12525/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  54% (12762/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  55% (12998/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  56% (13234/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  57% (13471/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  58% (13707/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  59% (13943/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  60% (14180/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  61% (14416/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  62% (14652/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  63% (14889/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  64% (15125/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  65% (15361/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  66% (15598/23632), 2.38 MiB | 4.73 MiB/sReceiving objects:  66% (15668/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  67% (15834/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  68% (16070/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  69% (16307/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  70% (16543/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  71% (16779/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  72% (17016/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  73% (17252/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  74% (17488/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  75% (17724/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  76% (17961/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  77% (18197/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  78% (18433/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  79% (18670/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  80% (18906/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  81% (19142/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  82% (19379/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  83% (19615/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  84% (19851/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  85% (20088/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  86% (20324/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  87% (20560/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  88% (20797/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  89% (21033/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  90% (21269/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  91% (21506/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  92% (21742/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  93% (21978/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  94% (22215/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  95% (22451/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  96% (22687/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  97% (22924/23632), 4.14 MiB | 4.08 MiB/sReceiving objects:  98% (23160/23632), 5.95 MiB | 3.92 MiB/sReceiving objects:  99% (23396/23632), 5.95 MiB | 3.92 MiB/sremote: Total 23632 (delta 2247), reused 2329 (delta 2050), pack-reused 20969[K
+Receiving objects: 100% (23632/23632), 5.95 MiB | 3.92 MiB/sReceiving objects: 100% (23632/23632), 6.68 MiB | 3.99 MiB/s, done.
+Resolving deltas:   0% (0/17864)Resolving deltas:   1% (187/17864)Resolving deltas:   2% (365/17864)Resolving deltas:   3% (545/17864)Resolving deltas:   4% (766/17864)Resolving deltas:   5% (900/17864)Resolving deltas:   6% (1076/17864)Resolving deltas:   7% (1273/17864)Resolving deltas:   8% (1455/17864)Resolving deltas:   9% (1636/17864)Resolving deltas:  10% (1792/17864)Resolving deltas:  11% (1983/17864)Resolving deltas:  12% (2184/17864)Resolving deltas:  13% (2366/17864)Resolving deltas:  14% (2532/17864)Resolving deltas:  15% (2698/17864)Resolving deltas:  16% (2883/17864)Resolving deltas:  17% (3055/17864)Resolving deltas:  18% (3216/17864)Resolving deltas:  19% (3395/17864)Resolving deltas:  20% (3579/17864)Resolving deltas:  21% (3777/17864)Resolving deltas:  22% (3968/17864)Resolving deltas:  23% (4120/17864)Resolving deltas:  24% (4291/17864)Resolving deltas:  25% (4470/17864)Resolving deltas:  26% (4651/17864)Resolving deltas:  27% (4829/17864)Resolving deltas:  28% (5002/17864)Resolving deltas:  29% (5184/17864)Resolving deltas:  30% (5372/17864)Resolving deltas:  31% (5543/17864)Resolving deltas:  32% (5717/17864)Resolving deltas:  33% (5912/17864)Resolving deltas:  34% (6074/17864)Resolving deltas:  35% (6266/17864)Resolving deltas:  36% (6433/17864)Resolving deltas:  37% (6611/17864)Resolving deltas:  38% (6809/17864)Resolving deltas:  39% (7008/17864)Resolving deltas:  40% (7200/17864)Resolving deltas:  41% (7358/17864)Resolving deltas:  42% (7516/17864)Resolving deltas:  43% (7682/17864)Resolving deltas:  44% (7862/17864)Resolving deltas:  45% (8043/17864)Resolving deltas:  46% (8218/17864)Resolving deltas:  47% (8524/17864)Resolving deltas:  48% (8579/17864)Resolving deltas:  49% (8786/17864)Resolving deltas:  50% (8936/17864)Resolving deltas:  51% (9111/17864)Resolving deltas:  52% (9292/17864)Resolving deltas:  53% (9469/17864)Resolving deltas:  54% (9657/17864)Resolving deltas:  55% (9849/17864)Resolving deltas:  56% (10014/17864)Resolving deltas:  57% (10186/17864)Resolving deltas:  58% (10383/17864)Resolving deltas:  59% (10542/17864)Resolving deltas:  60% (10799/17864)Resolving deltas:  61% (10898/17864)Resolving deltas:  62% (11087/17864)Resolving deltas:  63% (11270/17864)Resolving deltas:  64% (11441/17864)Resolving deltas:  65% (11714/17864)Resolving deltas:  66% (11794/17864)Resolving deltas:  67% (11974/17864)Resolving deltas:  68% (12161/17864)Resolving deltas:  69% (12334/17864)Resolving deltas:  70% (12505/17864)Resolving deltas:  71% (12710/17864)Resolving deltas:  72% (12863/17864)Resolving deltas:  73% (13044/17864)Resolving deltas:  74% (13220/17864)Resolving deltas:  75% (13495/17864)Resolving deltas:  76% (13582/17864)Resolving deltas:  77% (13770/17864)Resolving deltas:  78% (13961/17864)Resolving deltas:  79% (14129/17864)Resolving deltas:  80% (14347/17864)Resolving deltas:  81% (14518/17864)Resolving deltas:  82% (14682/17864)Resolving deltas:  83% (14828/17864)Resolving deltas:  84% (15015/17864)Resolving deltas:  85% (15188/17864)Resolving deltas:  86% (15368/17864)Resolving deltas:  87% (15542/17864)Resolving deltas:  88% (15727/17864)Resolving deltas:  89% (15938/17864)Resolving deltas:  90% (16152/17864)Resolving deltas:  91% (16272/17864)Resolving deltas:  92% (16494/17864)Resolving deltas:  93% (16658/17864)Resolving deltas:  94% (16794/17864)Resolving deltas:  95% (16971/17864)Resolving deltas:  96% (17151/17864)Resolving deltas:  97% (17333/17864)Resolving deltas:  98% (17508/17864)Resolving deltas:  99% (17709/17864)Resolving deltas: 100% (17864/17864)Resolving deltas: 100% (17864/17864), done.
+
+[0m[7m┌  [0m[7mInstall Dorothy[0m[0m[7m  ┐[0m
+[0m[1m┌  [0m[1m[4mEnsure required dependencies[0m[0m[1m  ┐[0m
+[1m[4m[93mYour sudo/root/login password is required to execute the command:[0m
+[0m[2m[1m< [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'upgrade' 'bash'[0m[22m[0m[2m[1m >[0m
+[G[2KFake sudo: --set-home dnf -y --best --refresh --quiet upgrade bash[G[2Kuser.annoyance += 1[G[2K[G[2K[F[J[0m[2m[1m< [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'upgrade' 'bash'[0m[22m[0m[2m[1m >[0m
+Fake sudo: --set-home dnf -y --best --refresh --quiet upgrade bash
+user.annoyance += 1
+[0m[2m[1m</ [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'upgrade' 'bash'[0m[22m[0m[2m[1m >[0m[1m[31m[1][0m
+[1m[31mThe [bash] required utility was not upgraded via [dnf][0m
+[1m[4m[93mYour sudo/root/login password is required to execute the command:[0m
+[0m[2m[1m< [0m[1m[93m'yum' '-y' '--best' '--quiet' 'upgrade' 'bash'[0m[22m[0m[2m[1m >[0m
+[G[2KFake sudo: --set-home yum -y --best --quiet upgrade bash[G[2Kuser.annoyance += 1[G[2K[G[2K[F[J[0m[2m[1m< [0m[1m[93m'yum' '-y' '--best' '--quiet' 'upgrade' 'bash'[0m[22m[0m[2m[1m >[0m
+Fake sudo: --set-home yum -y --best --quiet upgrade bash
+user.annoyance += 1
+[0m[2m[1m</ [0m[1m[93m'yum' '-y' '--best' '--quiet' 'upgrade' 'bash'[0m[22m[0m[2m[1m >[0m[1m[31m[1][0m
+[1m[31mThe [bash] required utility was not upgraded via [yum][0m
+[1m[31mThe [bash] required utility was not upgraded via [rpm][0m
+[1mDownloading and extracting [22m[2mhttps://ftp.gnu.org/gnu/bash/bash-5.2.21.tar.gz[0m to [2m/home/user/.cache/dorothy/setup-util/20942/[0m
+[?1049h[22;0;0t[1;1H[1mDownloading and extracting [22m[2mhttps://ftp.gnu.org/gnu/bash/bash-5.2.21.tar.gz[0m to [2m/home/user/.cache/dorothy/setup-util/20942/[0m
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 25 10.4M   25 2720k    0     0  3546k      0  0:00:03 --:--:--  0:00:03 3541k 68 10.4M   68 7280k    0     0  4108k      0  0:00:02  0:00:01  0:00:01 4106k100 10.4M  100 10.4M    0     0  4199k      0  0:00:02  0:00:02 --:--:-- 4199k
+[32m[1mDownloaded![0m
+[1m[4m[93mUnzipping...[0m
+bash-5.2.21/
+bash-5.2.21/jobs.h
+bash-5.2.21/error.h
+bash-5.2.21/trap.h
+bash-5.2.21/sig.c
+bash-5.2.21/quit.h
+bash-5.2.21/eval.c
+bash-5.2.21/POSIX
+bash-5.2.21/bashansi.h
+bash-5.2.21/mailcheck.h
+bash-5.2.21/make_cmd.c
+bash-5.2.21/input.h
+bash-5.2.21/list.c
+bash-5.2.21/configure.ac
+bash-5.2.21/shell.h
+bash-5.2.21/arrayfunc.c
+bash-5.2.21/COMPAT
+bash-5.2.21/INSTALL
+bash-5.2.21/hashcmd.c
+bash-5.2.21/syntax.h
+bash-5.2.21/dispose_cmd.h
+bash-5.2.21/xmalloc.h
+bash-5.2.21/alias.h
+bash-5.2.21/array.c
+bash-5.2.21/pathexp.h
+bash-5.2.21/bashline.c
+bash-5.2.21/configure
+bash-5.2.21/pcomplib.c
+bash-5.2.21/execute_cmd.h
+bash-5.2.21/ChangeLog
+bash-5.2.21/AUTHORS
+bash-5.2.21/hashlib.c
+bash-5.2.21/parser.h
+bash-5.2.21/pcomplete.h
+bash-5.2.21/general.h
+bash-5.2.21/CHANGES
+bash-5.2.21/patchlevel.h
+bash-5.2.21/variables.c
+bash-5.2.21/include/
+bash-5.2.21/conftypes.h
+bash-5.2.21/y.tab.c
+bash-5.2.21/flags.h
+bash-5.2.21/unwind_prot.c
+bash-5.2.21/array2.c
+bash-5.2.21/MANIFEST
+bash-5.2.21/siglist.c
+bash-5.2.21/test.h
+bash-5.2.21/pathnames.h.in
+bash-5.2.21/tests/
+bash-5.2.21/subst.h
+bash-5.2.21/config.h.in
+bash-5.2.21/stringlib.c
+bash-5.2.21/redir.c
+bash-5.2.21/assoc.h
+bash-5.2.21/bracecomp.c
+bash-5.2.21/findcmd.h
+bash-5.2.21/print_cmd.c
+bash-5.2.21/builtins/
+bash-5.2.21/bashhist.h
+bash-5.2.21/README
+bash-5.2.21/ABOUT-NLS
+bash-5.2.21/bashjmp.h
+bash-5.2.21/arrayfunc.h
+bash-5.2.21/shell.c
+bash-5.2.21/copy_cmd.c
+bash-5.2.21/builtins.h
+bash-5.2.21/input.c
+bash-5.2.21/make_cmd.h
+bash-5.2.21/mailcheck.c
+bash-5.2.21/trap.c
+bash-5.2.21/sig.h
+bash-5.2.21/COPYING
+bash-5.2.21/CWRU/
+bash-5.2.21/NOTES
+bash-5.2.21/cross-build/
+bash-5.2.21/po/
+bash-5.2.21/jobs.c
+bash-5.2.21/NEWS
+bash-5.2.21/error.c
+bash-5.2.21/externs.h
+bash-5.2.21/support/
+bash-5.2.21/nojobs.c
+bash-5.2.21/execute_cmd.c
+bash-5.2.21/examples/
+bash-5.2.21/pathexp.c
+bash-5.2.21/array.h
+bash-5.2.21/config-bot.h
+bash-5.2.21/locale.c
+bash-5.2.21/bashline.h
+bash-5.2.21/xmalloc.c
+bash-5.2.21/bashintl.h
+bash-5.2.21/alias.c
+bash-5.2.21/lib/
+bash-5.2.21/hashcmd.h
+bash-5.2.21/m4/
+bash-5.2.21/version.c
+bash-5.2.21/config-top.h
+bash-5.2.21/dispose_cmd.c
+bash-5.2.21/doc/
+bash-5.2.21/bashtypes.h
+bash-5.2.21/test.c
+bash-5.2.21/parser-built
+bash-5.2.21/RBASH
+bash-5.2.21/command.h
+bash-5.2.21/unwind_prot.h
+bash-5.2.21/flags.c
+bash-5.2.21/y.tab.h
+bash-5.2.21/variables.h
+bash-5.2.21/siglist.h
+bash-5.2.21/parse.y
+bash-5.2.21/general.c
+bash-5.2.21/hashlib.h
+bash-5.2.21/pcomplete.c
+bash-5.2.21/Makefile.in
+bash-5.2.21/mksyntax.c
+bash-5.2.21/bashhist.c
+bash-5.2.21/aclocal.m4
+bash-5.2.21/Y2K
+bash-5.2.21/expr.c
+bash-5.2.21/findcmd.c
+bash-5.2.21/redir.h
+bash-5.2.21/assoc.c
+bash-5.2.21/subst.c
+bash-5.2.21/braces.c
+bash-5.2.21/doc/bashref.pdf
+bash-5.2.21/doc/bash.html
+bash-5.2.21/doc/htmlpost.sh
+bash-5.2.21/doc/INTRO
+bash-5.2.21/doc/FAQ
+bash-5.2.21/doc/bash.pdf
+bash-5.2.21/doc/bashref.ps
+bash-5.2.21/doc/bashref.html
+bash-5.2.21/doc/version.texi
+bash-5.2.21/doc/rose94.pdf
+bash-5.2.21/doc/article.ps
+bash-5.2.21/doc/aosa-bash.pdf
+bash-5.2.21/doc/README
+bash-5.2.21/doc/builtins.1
+bash-5.2.21/doc/rose94.ps
+bash-5.2.21/doc/bashref.dvi
+bash-5.2.21/doc/builtins.0
+bash-5.2.21/doc/bash.1
+bash-5.2.21/doc/aosa-bash-full.pdf
+bash-5.2.21/doc/bashbug.0
+bash-5.2.21/doc/article.txt
+bash-5.2.21/doc/bashref.info
+bash-5.2.21/doc/bash.0
+bash-5.2.21/doc/fdl.texi
+bash-5.2.21/doc/bashbug.1
+bash-5.2.21/doc/article.ms
+bash-5.2.21/doc/texinfo.tex
+bash-5.2.21/doc/builtins.ps
+bash-5.2.21/doc/rbash.0
+bash-5.2.21/doc/bash.ps
+bash-5.2.21/doc/rbash.ps
+bash-5.2.21/doc/rbash.1
+bash-5.2.21/doc/Makefile.in
+bash-5.2.21/doc/bashref.texi
+bash-5.2.21/doc/bash.info
+bash-5.2.21/doc/fdl.txt
+bash-5.2.21/doc/bashbug.ps
+bash-5.2.21/doc/article.pdf
+bash-5.2.21/m4/size_max.m4
+bash-5.2.21/m4/lock.m4
+bash-5.2.21/m4/glibc2.m4
+bash-5.2.21/m4/po.m4
+bash-5.2.21/m4/ulonglong.m4
+bash-5.2.21/m4/visibility.m4
+bash-5.2.21/m4/glibc21.m4
+bash-5.2.21/m4/intdiv0.m4
+bash-5.2.21/m4/stdint_h.m4
+bash-5.2.21/m4/extern-inline.m4
+bash-5.2.21/m4/strtoimax.m4
+bash-5.2.21/m4/intmax.m4
+bash-5.2.21/m4/fcntl-o.m4
+bash-5.2.21/m4/lib-link.m4
+bash-5.2.21/m4/pthread_rwlock_rdlock.m4
+bash-5.2.21/m4/stat-time.m4
+bash-5.2.21/m4/inttypes.m4
+bash-5.2.21/m4/uintmax_t.m4
+bash-5.2.21/m4/xsize.m4
+bash-5.2.21/m4/threadlib.m4
+bash-5.2.21/m4/printf-posix.m4
+bash-5.2.21/m4/codeset.m4
+bash-5.2.21/m4/gettext.m4
+bash-5.2.21/m4/intl-thread-locale.m4
+bash-5.2.21/m4/intl.m4
+bash-5.2.21/m4/wint_t.m4
+bash-5.2.21/m4/progtest.m4
+bash-5.2.21/m4/timespec.m4
+bash-5.2.21/m4/lcmessage.m4
+bash-5.2.21/m4/inttypes_h.m4
+bash-5.2.21/m4/iconv.m4
+bash-5.2.21/m4/nls.m4
+bash-5.2.21/m4/lib-prefix.m4
+bash-5.2.21/m4/inttypes-pri.m4
+bash-5.2.21/m4/lib-ld.m4
+bash-5.2.21/m4/wchar_t.m4
+bash-5.2.21/m4/host-cpu-c-abi.m4
+bash-5.2.21/m4/intlmacosx.m4
+bash-5.2.21/lib/intl/
+bash-5.2.21/lib/readline/
+bash-5.2.21/lib/sh/
+bash-5.2.21/lib/termcap/
+bash-5.2.21/lib/glob/
+bash-5.2.21/lib/malloc/
+bash-5.2.21/lib/tilde/
+bash-5.2.21/lib/tilde/tilde.h
+bash-5.2.21/lib/tilde/README
+bash-5.2.21/lib/tilde/shell.c
+bash-5.2.21/lib/tilde/tilde.c
+bash-5.2.21/lib/tilde/Makefile.in
+bash-5.2.21/lib/malloc/alloca.c
+bash-5.2.21/lib/malloc/trace.c
+bash-5.2.21/lib/malloc/shmalloc.h
+bash-5.2.21/lib/malloc/mstats.h
+bash-5.2.21/lib/malloc/table.c
+bash-5.2.21/lib/malloc/watch.c
+bash-5.2.21/lib/malloc/xleaktrace
+bash-5.2.21/lib/malloc/stats.c
+bash-5.2.21/lib/malloc/i386-alloca.s
+bash-5.2.21/lib/malloc/stub.c
+bash-5.2.21/lib/malloc/getpagesize.h
+bash-5.2.21/lib/malloc/x386-alloca.s
+bash-5.2.21/lib/malloc/xmalloc.c
+bash-5.2.21/lib/malloc/malloc.c
+bash-5.2.21/lib/malloc/table.h
+bash-5.2.21/lib/malloc/watch.h
+bash-5.2.21/lib/malloc/Makefile.in
+bash-5.2.21/lib/malloc/imalloc.h
+bash-5.2.21/lib/glob/strmatch.c
+bash-5.2.21/lib/glob/gmisc.c
+bash-5.2.21/lib/glob/xmbsrtowcs.c
+bash-5.2.21/lib/glob/sm_loop.c
+bash-5.2.21/lib/glob/collsyms.h
+bash-5.2.21/lib/glob/glob.c
+bash-5.2.21/lib/glob/gm_loop.c
+bash-5.2.21/lib/glob/smatch.c
+bash-5.2.21/lib/glob/strmatch.h
+bash-5.2.21/lib/glob/doc/
+bash-5.2.21/lib/glob/glob_loop.c
+bash-5.2.21/lib/glob/Makefile.in
+bash-5.2.21/lib/glob/glob.h
+bash-5.2.21/lib/glob/ndir.h
+bash-5.2.21/lib/glob/doc/Makefile
+bash-5.2.21/lib/glob/doc/glob.texi
+bash-5.2.21/lib/termcap/termcap.h
+bash-5.2.21/lib/termcap/ltcap.h
+bash-5.2.21/lib/termcap/tparam.c
+bash-5.2.21/lib/termcap/termcap.c
+bash-5.2.21/lib/termcap/version.c
+bash-5.2.21/lib/termcap/Makefile.in
+bash-5.2.21/lib/sh/strchrnul.c
+bash-5.2.21/lib/sh/fmtumax.c
+bash-5.2.21/lib/sh/timeval.c
+bash-5.2.21/lib/sh/pathcanon.c
+bash-5.2.21/lib/sh/eaccess.c
+bash-5.2.21/lib/sh/fnxform.c
+bash-5.2.21/lib/sh/unicode.c
+bash-5.2.21/lib/sh/dprintf.c
+bash-5.2.21/lib/sh/strcasecmp.c
+bash-5.2.21/lib/sh/strtoimax.c
+bash-5.2.21/lib/sh/shmbchar.c
+bash-5.2.21/lib/sh/wcsdup.c
+bash-5.2.21/lib/sh/setlinebuf.c
+bash-5.2.21/lib/sh/itos.c
+bash-5.2.21/lib/sh/gettimeofday.c
+bash-5.2.21/lib/sh/mktime.c
+bash-5.2.21/lib/sh/zcatfd.c
+bash-5.2.21/lib/sh/rename.c
+bash-5.2.21/lib/sh/strstr.c
+bash-5.2.21/lib/sh/shmatch.c
+bash-5.2.21/lib/sh/getcwd.c
+bash-5.2.21/lib/sh/casemod.c
+bash-5.2.21/lib/sh/fmtulong.c
+bash-5.2.21/lib/sh/strtol.c
+bash-5.2.21/lib/sh/vprint.c
+bash-5.2.21/lib/sh/strnlen.c
+bash-5.2.21/lib/sh/netopen.c
+bash-5.2.21/lib/sh/input_avail.c
+bash-5.2.21/lib/sh/pathphys.c
+bash-5.2.21/lib/sh/strpbrk.c
+bash-5.2.21/lib/sh/mbscmp.c
+bash-5.2.21/lib/sh/random.c
+bash-5.2.21/lib/sh/mailstat.c
+bash-5.2.21/lib/sh/utf8.c
+bash-5.2.21/lib/sh/getenv.c
+bash-5.2.21/lib/sh/clock.c
+bash-5.2.21/lib/sh/strftime.c
+bash-5.2.21/lib/sh/fpurge.c
+bash-5.2.21/lib/sh/wcsnwidth.c
+bash-5.2.21/lib/sh/winsize.c
+bash-5.2.21/lib/sh/tmpfile.c
+bash-5.2.21/lib/sh/strdup.c
+bash-5.2.21/lib/sh/zgetline.c
+bash-5.2.21/lib/sh/zwrite.c
+bash-5.2.21/lib/sh/snprintf.c
+bash-5.2.21/lib/sh/strtoull.c
+bash-5.2.21/lib/sh/wcswidth.c
+bash-5.2.21/lib/sh/timers.c
+bash-5.2.21/lib/sh/strtoumax.c
+bash-5.2.21/lib/sh/strtoll.c
+bash-5.2.21/lib/sh/strtoul.c
+bash-5.2.21/lib/sh/spell.c
+bash-5.2.21/lib/sh/clktck.c
+bash-5.2.21/lib/sh/inet_aton.c
+bash-5.2.21/lib/sh/makepath.c
+bash-5.2.21/lib/sh/fmtullong.c
+bash-5.2.21/lib/sh/strtrans.c
+bash-5.2.21/lib/sh/strerror.c
+bash-5.2.21/lib/sh/strcasestr.c
+bash-5.2.21/lib/sh/memset.c
+bash-5.2.21/lib/sh/zread.c
+bash-5.2.21/lib/sh/mbschr.c
+bash-5.2.21/lib/sh/shquote.c
+bash-5.2.21/lib/sh/stringlist.c
+bash-5.2.21/lib/sh/strtod.c
+bash-5.2.21/lib/sh/stringvec.c
+bash-5.2.21/lib/sh/shtty.c
+bash-5.2.21/lib/sh/times.c
+bash-5.2.21/lib/sh/oslib.c
+bash-5.2.21/lib/sh/strvis.c
+bash-5.2.21/lib/sh/ufuncs.c
+bash-5.2.21/lib/sh/Makefile.in
+bash-5.2.21/lib/sh/zmapfd.c
+bash-5.2.21/lib/sh/mbscasecmp.c
+bash-5.2.21/lib/sh/uconvert.c
+bash-5.2.21/lib/sh/netconn.c
+bash-5.2.21/lib/readline/rlshell.h
+bash-5.2.21/lib/readline/rldefs.h
+bash-5.2.21/lib/readline/history.c
+bash-5.2.21/lib/readline/histlib.h
+bash-5.2.21/lib/readline/display.c
+bash-5.2.21/lib/readline/mbutil.c
+bash-5.2.21/lib/readline/rltty.c
+bash-5.2.21/lib/readline/compat.c
+bash-5.2.21/lib/readline/tcap.h
+bash-5.2.21/lib/readline/undo.c
+bash-5.2.21/lib/readline/xmalloc.h
+bash-5.2.21/lib/readline/util.c
+bash-5.2.21/lib/readline/histexpand.c
+bash-5.2.21/lib/readline/terminal.c
+bash-5.2.21/lib/readline/readline.h
+bash-5.2.21/lib/readline/parse-colors.h
+bash-5.2.21/lib/readline/STANDALONE
+bash-5.2.21/lib/readline/ChangeLog
+bash-5.2.21/lib/readline/keymaps.h
+bash-5.2.21/lib/readline/rlwinsize.h
+bash-5.2.21/lib/readline/posixstat.h
+bash-5.2.21/lib/readline/xfree.c
+bash-5.2.21/lib/readline/bind.c
+bash-5.2.21/lib/readline/nls.c
+bash-5.2.21/lib/readline/tilde.h
+bash-5.2.21/lib/readline/rlprivate.h
+bash-5.2.21/lib/readline/rlconf.h
+bash-5.2.21/lib/readline/vi_keymap.c
+bash-5.2.21/lib/readline/chardefs.h
+bash-5.2.21/lib/readline/parens.c
+bash-5.2.21/lib/readline/posixtime.h
+bash-5.2.21/lib/readline/colors.h
+bash-5.2.21/lib/readline/rlmbutil.h
+bash-5.2.21/lib/readline/savestring.c
+bash-5.2.21/lib/readline/search.c
+bash-5.2.21/lib/readline/posixselect.h
+bash-5.2.21/lib/readline/README
+bash-5.2.21/lib/readline/callback.c
+bash-5.2.21/lib/readline/posixjmp.h
+bash-5.2.21/lib/readline/emacs_keymap.c
+bash-5.2.21/lib/readline/rltty.h
+bash-5.2.21/lib/readline/shell.c
+bash-5.2.21/lib/readline/input.c
+bash-5.2.21/lib/readline/complete.c
+bash-5.2.21/lib/readline/COPYING
+bash-5.2.21/lib/readline/history.h
+bash-5.2.21/lib/readline/rlstdc.h
+bash-5.2.21/lib/readline/keymaps.c
+bash-5.2.21/lib/readline/parse-colors.c
+bash-5.2.21/lib/readline/examples/
+bash-5.2.21/lib/readline/kill.c
+bash-5.2.21/lib/readline/rltypedefs.h
+bash-5.2.21/lib/readline/readline.c
+bash-5.2.21/lib/readline/xmalloc.c
+bash-5.2.21/lib/readline/text.c
+bash-5.2.21/lib/readline/ansi_stdlib.h
+bash-5.2.21/lib/readline/funmap.c
+bash-5.2.21/lib/readline/isearch.c
+bash-5.2.21/lib/readline/histsearch.c
+bash-5.2.21/lib/readline/doc/
+bash-5.2.21/lib/readline/tilde.c
+bash-5.2.21/lib/readline/misc.c
+bash-5.2.21/lib/readline/histfile.c
+bash-5.2.21/lib/readline/Makefile.in
+bash-5.2.21/lib/readline/vi_mode.c
+bash-5.2.21/lib/readline/posixdir.h
+bash-5.2.21/lib/readline/colors.c
+bash-5.2.21/lib/readline/signals.c
+bash-5.2.21/lib/readline/macro.c
+bash-5.2.21/lib/readline/doc/rlman.texi
+bash-5.2.21/lib/readline/doc/history.texi
+bash-5.2.21/lib/readline/doc/rluserman.texi
+bash-5.2.21/lib/readline/doc/rltech.texi
+bash-5.2.21/lib/readline/doc/Makefile
+bash-5.2.21/lib/readline/doc/hsuser.texi
+bash-5.2.21/lib/readline/doc/version.texi
+bash-5.2.21/lib/readline/doc/hstech.texi
+bash-5.2.21/lib/readline/doc/fdl.texi
+bash-5.2.21/lib/readline/doc/rluser.texi
+bash-5.2.21/lib/readline/examples/excallback.c
+bash-5.2.21/lib/readline/examples/Makefile
+bash-5.2.21/lib/readline/examples/rl-callbacktest.c
+bash-5.2.21/lib/readline/examples/rl.c
+bash-5.2.21/lib/readline/examples/fileman.c
+bash-5.2.21/lib/readline/examples/manexamp.c
+bash-5.2.21/lib/readline/examples/Inputrc
+bash-5.2.21/lib/readline/examples/rltest.c
+bash-5.2.21/lib/readline/examples/rlcat.c
+bash-5.2.21/lib/readline/examples/histexamp.c
+bash-5.2.21/lib/intl/dcigettext.c
+bash-5.2.21/lib/intl/gettext.c
+bash-5.2.21/lib/intl/log.c
+bash-5.2.21/lib/intl/intl-compat.c
+bash-5.2.21/lib/intl/explodename.c
+bash-5.2.21/lib/intl/gmo.h
+bash-5.2.21/lib/intl/plural-exp.h
+bash-5.2.21/lib/intl/dcgettext.c
+bash-5.2.21/lib/intl/gettextP.h
+bash-5.2.21/lib/intl/textdomain.c
+bash-5.2.21/lib/intl/ChangeLog
+bash-5.2.21/lib/intl/ngettext.c
+bash-5.2.21/lib/intl/ref-add.sin
+bash-5.2.21/lib/intl/loadinfo.h
+bash-5.2.21/lib/intl/dngettext.c
+bash-5.2.21/lib/intl/dgettext.c
+bash-5.2.21/lib/intl/localcharset.h
+bash-5.2.21/lib/intl/relocatable.c
+bash-5.2.21/lib/intl/dcngettext.c
+bash-5.2.21/lib/intl/os2compat.c
+bash-5.2.21/lib/intl/locale.alias
+bash-5.2.21/lib/intl/plural-exp.c
+bash-5.2.21/lib/intl/hash-string.h
+bash-5.2.21/lib/intl/bindtextdom.c
+bash-5.2.21/lib/intl/localealias.c
+bash-5.2.21/lib/intl/VERSION
+bash-5.2.21/lib/intl/plural.y
+bash-5.2.21/lib/intl/finddomain.c
+bash-5.2.21/lib/intl/plural.c
+bash-5.2.21/lib/intl/config.charset
+bash-5.2.21/lib/intl/osdep.c
+bash-5.2.21/lib/intl/relocatable.h
+bash-5.2.21/lib/intl/localcharset.c
+bash-5.2.21/lib/intl/ref-del.sin
+bash-5.2.21/lib/intl/loadmsgcat.c
+bash-5.2.21/lib/intl/l10nflist.c
+bash-5.2.21/lib/intl/Makefile.in
+bash-5.2.21/lib/intl/localename.c
+bash-5.2.21/lib/intl/os2compat.h
+bash-5.2.21/lib/intl/eval-plural.h
+bash-5.2.21/lib/intl/libgnuintl.h.in
+bash-5.2.21/examples/misc/
+bash-5.2.21/examples/shellmath/
+bash-5.2.21/examples/INDEX.html
+bash-5.2.21/examples/complete/
+bash-5.2.21/examples/INDEX.txt
+bash-5.2.21/examples/startup-files/
+bash-5.2.21/examples/scripts/
+bash-5.2.21/examples/functions/
+bash-5.2.21/examples/loadables/
+bash-5.2.21/examples/bash-completion/
+bash-5.2.21/examples/bash-completion/bash-completion-2.5.tar.xz
+bash-5.2.21/examples/bash-completion/README
+bash-5.2.21/examples/loadables/hello.c
+bash-5.2.21/examples/loadables/mkfifo.c
+bash-5.2.21/examples/loadables/Makefile.inc.in
+bash-5.2.21/examples/loadables/print.c
+bash-5.2.21/examples/loadables/tee.c
+bash-5.2.21/examples/loadables/push.c
+bash-5.2.21/examples/loadables/perl/
+bash-5.2.21/examples/loadables/rm.c
+bash-5.2.21/examples/loadables/cat.c
+bash-5.2.21/examples/loadables/getconf.c
+bash-5.2.21/examples/loadables/template.c
+bash-5.2.21/examples/loadables/pathchk.c
+bash-5.2.21/examples/loadables/strftime.c
+bash-5.2.21/examples/loadables/dirname.c
+bash-5.2.21/examples/loadables/basename.c
+bash-5.2.21/examples/loadables/README
+bash-5.2.21/examples/loadables/fdflags.c
+bash-5.2.21/examples/loadables/finfo.c
+bash-5.2.21/examples/loadables/mkdir.c
+bash-5.2.21/examples/loadables/accept.c
+bash-5.2.21/examples/loadables/sleep.c
+bash-5.2.21/examples/loadables/unlink.c
+bash-5.2.21/examples/loadables/realpath.c
+bash-5.2.21/examples/loadables/head.c
+bash-5.2.21/examples/loadables/Makefile.sample.in
+bash-5.2.21/examples/loadables/csv.c
+bash-5.2.21/examples/loadables/sync.c
+bash-5.2.21/examples/loadables/loadables.h
+bash-5.2.21/examples/loadables/uname.c
+bash-5.2.21/examples/loadables/tty.c
+bash-5.2.21/examples/loadables/dsv.c
+bash-5.2.21/examples/loadables/seq.c
+bash-5.2.21/examples/loadables/mktemp.c
+bash-5.2.21/examples/loadables/setpgid.c
+bash-5.2.21/examples/loadables/stat.c
+bash-5.2.21/examples/loadables/whoami.c
+bash-5.2.21/examples/loadables/mypid.c
+bash-5.2.21/examples/loadables/cut.c
+bash-5.2.21/examples/loadables/ln.c
+bash-5.2.21/examples/loadables/truefalse.c
+bash-5.2.21/examples/loadables/rmdir.c
+bash-5.2.21/examples/loadables/logname.c
+bash-5.2.21/examples/loadables/Makefile.in
+bash-5.2.21/examples/loadables/printenv.c
+bash-5.2.21/examples/loadables/asort.c
+bash-5.2.21/examples/loadables/necho.c
+bash-5.2.21/examples/loadables/id.c
+bash-5.2.21/examples/loadables/getconf.h
+bash-5.2.21/examples/loadables/perl/iperl.c
+bash-5.2.21/examples/loadables/perl/README
+bash-5.2.21/examples/loadables/perl/bperl.c
+bash-5.2.21/examples/loadables/perl/Makefile.in
+bash-5.2.21/examples/functions/autoload.v2
+bash-5.2.21/examples/functions/kshenv
+bash-5.2.21/examples/functions/ksh-compat-test
+bash-5.2.21/examples/functions/array-stuff
+bash-5.2.21/examples/functions/isvalidip
+bash-5.2.21/examples/functions/autoload.v3
+bash-5.2.21/examples/functions/autoload.v4
+bash-5.2.21/examples/functions/autoload.v4.t
+bash-5.2.21/examples/functions/csh-compat
+bash-5.2.21/examples/functions/basename
+bash-5.2.21/examples/functions/substr
+bash-5.2.21/examples/functions/dirstack
+bash-5.2.21/examples/functions/shcat
+bash-5.2.21/examples/functions/array-to-string
+bash-5.2.21/examples/functions/arrayops.bash
+bash-5.2.21/examples/functions/inpath
+bash-5.2.21/examples/functions/seq
+bash-5.2.21/examples/functions/whence
+bash-5.2.21/examples/functions/notify.bash
+bash-5.2.21/examples/functions/ksh-cd
+bash-5.2.21/examples/functions/whatis
+bash-5.2.21/examples/functions/shcat2
+bash-5.2.21/examples/functions/exitstat
+bash-5.2.21/examples/functions/sort-pos-params
+bash-5.2.21/examples/functions/substr2
+bash-5.2.21/examples/functions/isnum2
+bash-5.2.21/examples/functions/seq2
+bash-5.2.21/examples/functions/inetaddr
+bash-5.2.21/examples/functions/fact
+bash-5.2.21/examples/functions/dirname
+bash-5.2.21/examples/functions/autoload
+bash-5.2.21/examples/functions/external
+bash-5.2.21/examples/functions/fstty
+bash-5.2.21/examples/functions/login
+bash-5.2.21/examples/functions/which
+bash-5.2.21/examples/functions/func
+bash-5.2.21/examples/scripts/bcalc
+bash-5.2.21/examples/scripts/shprompt
+bash-5.2.21/examples/scripts/spin.bash
+bash-5.2.21/examples/scripts/xterm_title
+bash-5.2.21/examples/scripts/inpath
+bash-5.2.21/examples/scripts/center
+bash-5.2.21/examples/scripts/zprintf
+bash-5.2.21/examples/scripts/cat.sh
+bash-5.2.21/examples/startup-files/Bashrc.bfox
+bash-5.2.21/examples/startup-files/Bash_profile
+bash-5.2.21/examples/startup-files/bash-profile
+bash-5.2.21/examples/startup-files/Bash_aliases
+bash-5.2.21/examples/startup-files/bashrc
+bash-5.2.21/examples/startup-files/README
+bash-5.2.21/examples/complete/bashcc-1.0.1.tar.gz
+bash-5.2.21/examples/complete/cdfunc
+bash-5.2.21/examples/complete/complete-examples
+bash-5.2.21/examples/complete/bash_completion
+bash-5.2.21/examples/shellmath/LICENSE
+bash-5.2.21/examples/shellmath/timingData.txt
+bash-5.2.21/examples/shellmath/runTests.sh
+bash-5.2.21/examples/shellmath/README.md
+bash-5.2.21/examples/shellmath/slower_e_demo.sh
+bash-5.2.21/examples/shellmath/assert.sh
+bash-5.2.21/examples/shellmath/testCases.in
+bash-5.2.21/examples/shellmath/faster_e_demo.sh
+bash-5.2.21/examples/shellmath/image.png
+bash-5.2.21/examples/shellmath/shellmath.sh
+bash-5.2.21/examples/misc/aliasconv.bash
+bash-5.2.21/examples/misc/aliasconv.sh
+bash-5.2.21/examples/misc/cshtobash
+bash-5.2.21/support/fixlinks
+bash-5.2.21/support/SYMLINKS
+bash-5.2.21/support/rlvers.sh
+bash-5.2.21/support/config.rpath
+bash-5.2.21/support/checkbashisms
+bash-5.2.21/support/shobj-conf
+bash-5.2.21/support/zecho.c
+bash-5.2.21/support/texi2html
+bash-5.2.21/support/install.sh
+bash-5.2.21/support/bashversion.c
+bash-5.2.21/support/mkclone
+bash-5.2.21/support/mkconffiles
+bash-5.2.21/support/config.guess
+bash-5.2.21/support/missing
+bash-5.2.21/support/mkdirs
+bash-5.2.21/support/man2html.c
+bash-5.2.21/support/recho.c
+bash-5.2.21/support/config.sub
+bash-5.2.21/support/signames.c
+bash-5.2.21/support/xenix-link.sh
+bash-5.2.21/support/texi2dvi
+bash-5.2.21/support/bashbug.sh.in
+bash-5.2.21/support/bash.pc.in
+bash-5.2.21/support/mksignames.c
+bash-5.2.21/support/bash.xbm
+bash-5.2.21/support/printenv.sh
+bash-5.2.21/support/mkinstalldirs
+bash-5.2.21/support/mkversion.sh
+bash-5.2.21/support/Makefile.in
+bash-5.2.21/support/bashbug.sh
+bash-5.2.21/support/printenv.c
+bash-5.2.21/support/xcase.c
+bash-5.2.21/po/lt.po
+bash-5.2.21/po/bg.gmo
+bash-5.2.21/po/sr.po
+bash-5.2.21/po/hu.po
+bash-5.2.21/po/uk.po
+bash-5.2.21/po/cs.po
+bash-5.2.21/po/fr.po
+bash-5.2.21/po/nl.po
+bash-5.2.21/po/ca.gmo
+bash-5.2.21/po/zh_CN.po
+bash-5.2.21/po/sv.po
+bash-5.2.21/po/tr.po
+bash-5.2.21/po/cs.gmo
+bash-5.2.21/po/zh_TW.po
+bash-5.2.21/po/pt_BR.po
+bash-5.2.21/po/en@boldquot.po
+bash-5.2.21/po/eo.po
+bash-5.2.21/po/ro.po
+bash-5.2.21/po/nb.gmo
+bash-5.2.21/po/sk.po
+bash-5.2.21/po/it.po
+bash-5.2.21/po/es.po
+bash-5.2.21/po/boldquot.sed
+bash-5.2.21/po/uk.gmo
+bash-5.2.21/po/sl.gmo
+bash-5.2.21/po/Rules-builtins
+bash-5.2.21/po/en@boldquot.header
+bash-5.2.21/po/de.gmo
+bash-5.2.21/po/nb.po
+bash-5.2.21/po/zh_TW.gmo
+bash-5.2.21/po/insert-header.sin
+bash-5.2.21/po/it.gmo
+bash-5.2.21/po/pt.gmo
+bash-5.2.21/po/hr.gmo
+bash-5.2.21/po/ca.po
+bash-5.2.21/po/et.gmo
+bash-5.2.21/po/id.gmo
+bash-5.2.21/po/ga.po
+bash-5.2.21/po/de.po
+bash-5.2.21/po/zh_CN.gmo
+bash-5.2.21/po/sk.gmo
+bash-5.2.21/po/ro.gmo
+bash-5.2.21/po/ko.gmo
+bash-5.2.21/po/quot.sed
+bash-5.2.21/po/gl.gmo
+bash-5.2.21/po/Makevars
+bash-5.2.21/po/es.gmo
+bash-5.2.21/po/da.po
+bash-5.2.21/po/fi.gmo
+bash-5.2.21/po/da.gmo
+bash-5.2.21/po/hu.gmo
+bash-5.2.21/po/README
+bash-5.2.21/po/sr.gmo
+bash-5.2.21/po/en@quot.gmo
+bash-5.2.21/po/ga.gmo
+bash-5.2.21/po/fr.gmo
+bash-5.2.21/po/ru.gmo
+bash-5.2.21/po/bg.po
+bash-5.2.21/po/ja.po
+bash-5.2.21/po/ja.gmo
+bash-5.2.21/po/pt_BR.gmo
+bash-5.2.21/po/id.po
+bash-5.2.21/po/eo.gmo
+bash-5.2.21/po/en@boldquot.gmo
+bash-5.2.21/po/pl.gmo
+bash-5.2.21/po/af.po
+bash-5.2.21/po/bash.pot
+bash-5.2.21/po/POTFILES.in
+bash-5.2.21/po/el.gmo
+bash-5.2.21/po/Makefile.in.in
+bash-5.2.21/po/sv.gmo
+bash-5.2.21/po/et.po
+bash-5.2.21/po/nl.gmo
+bash-5.2.21/po/en@quot.po
+bash-5.2.21/po/sl.po
+bash-5.2.21/po/ko.po
+bash-5.2.21/po/remove-potcdate.sin
+bash-5.2.21/po/el.po
+bash-5.2.21/po/vi.gmo
+bash-5.2.21/po/vi.po
+bash-5.2.21/po/gl.po
+bash-5.2.21/po/pl.po
+bash-5.2.21/po/LINGUAS
+bash-5.2.21/po/Rules-quot
+bash-5.2.21/po/pt.po
+bash-5.2.21/po/en@quot.header
+bash-5.2.21/po/lt.gmo
+bash-5.2.21/po/tr.gmo
+bash-5.2.21/po/ru.po
+bash-5.2.21/po/af.gmo
+bash-5.2.21/po/hr.po
+bash-5.2.21/po/fi.po
+bash-5.2.21/cross-build/opennt.cache
+bash-5.2.21/cross-build/qnx.cache
+bash-5.2.21/cross-build/x86-beos.cache
+bash-5.2.21/CWRU/misc/
+bash-5.2.21/CWRU/PLATFORMS
+bash-5.2.21/CWRU/sh-redir-hack
+bash-5.2.21/CWRU/changelog
+bash-5.2.21/CWRU/README
+bash-5.2.21/CWRU/misc/open-files.c
+bash-5.2.21/CWRU/misc/errlist.c
+bash-5.2.21/CWRU/misc/sigstat.c
+bash-5.2.21/CWRU/misc/sigs.c
+bash-5.2.21/CWRU/misc/hpux10-dlfcn.h
+bash-5.2.21/CWRU/misc/bison
+bash-5.2.21/builtins/common.c
+bash-5.2.21/builtins/fc.def
+bash-5.2.21/builtins/gen-helpfiles.c
+bash-5.2.21/builtins/mapfile.def
+bash-5.2.21/builtins/echo.def
+bash-5.2.21/builtins/colon.def
+bash-5.2.21/builtins/bashgetopt.h
+bash-5.2.21/builtins/declare.def
+bash-5.2.21/builtins/shift.def
+bash-5.2.21/builtins/pushd.def
+bash-5.2.21/builtins/kill.def
+bash-5.2.21/builtins/caller.def
+bash-5.2.21/builtins/mkbuiltins.c
+bash-5.2.21/builtins/complete.def
+bash-5.2.21/builtins/builtin.def
+bash-5.2.21/builtins/enable.def
+bash-5.2.21/builtins/reserved.def
+bash-5.2.21/builtins/evalstring.c
+bash-5.2.21/builtins/hash.def
+bash-5.2.21/builtins/suspend.def
+bash-5.2.21/builtins/eval.def
+bash-5.2.21/builtins/umask.def
+bash-5.2.21/builtins/type.def
+bash-5.2.21/builtins/trap.def
+bash-5.2.21/builtins/return.def
+bash-5.2.21/builtins/getopt.h
+bash-5.2.21/builtins/alias.def
+bash-5.2.21/builtins/cd.def
+bash-5.2.21/builtins/fg_bg.def
+bash-5.2.21/builtins/common.h
+bash-5.2.21/builtins/ulimit.def
+bash-5.2.21/builtins/source.def
+bash-5.2.21/builtins/break.def
+bash-5.2.21/builtins/wait.def
+bash-5.2.21/builtins/bashgetopt.c
+bash-5.2.21/builtins/getopts.def
+bash-5.2.21/builtins/bind.def
+bash-5.2.21/builtins/printf.def
+bash-5.2.21/builtins/help.def
+bash-5.2.21/builtins/read.def
+bash-5.2.21/builtins/evalfile.c
+bash-5.2.21/builtins/set.def
+bash-5.2.21/builtins/times.def
+bash-5.2.21/builtins/test.def
+bash-5.2.21/builtins/psize.sh
+bash-5.2.21/builtins/history.def
+bash-5.2.21/builtins/Makefile.in
+bash-5.2.21/builtins/getopt.c
+bash-5.2.21/builtins/jobs.def
+bash-5.2.21/builtins/let.def
+bash-5.2.21/builtins/command.def
+bash-5.2.21/builtins/exit.def
+bash-5.2.21/builtins/shopt.def
+bash-5.2.21/builtins/psize.c
+bash-5.2.21/builtins/setattr.def
+bash-5.2.21/builtins/exec.def
+bash-5.2.21/tests/jobs1.sub
+bash-5.2.21/tests/exec8.sub
+bash-5.2.21/tests/case1.sub
+bash-5.2.21/tests/nameref17.sub
+bash-5.2.21/tests/lastpipe1.sub
+bash-5.2.21/tests/run-posixexp
+bash-5.2.21/tests/dollar-at7.sub
+bash-5.2.21/tests/trap4.sub
+bash-5.2.21/tests/errors9.sub
+bash-5.2.21/tests/dollar-star3.sub
+bash-5.2.21/tests/assoc1.sub
+bash-5.2.21/tests/alias4.sub
+bash-5.2.21/tests/run-nameref
+bash-5.2.21/tests/varenv6.sub
+bash-5.2.21/tests/builtins2.sub
+bash-5.2.21/tests/run-invert
+bash-5.2.21/tests/array25.sub
+bash-5.2.21/tests/nquote1.sub
+bash-5.2.21/tests/array19.sub
+bash-5.2.21/tests/array18.sub
+bash-5.2.21/tests/redir1.sub
+bash-5.2.21/tests/array24.sub
+bash-5.2.21/tests/misc/
+bash-5.2.21/tests/array30.sub
+bash-5.2.21/tests/dbg-support2.right
+bash-5.2.21/tests/builtins3.sub
+bash-5.2.21/tests/varenv7.sub
+bash-5.2.21/tests/dynvar.right
+bash-5.2.21/tests/run-nquote3
+bash-5.2.21/tests/run-getopts
+bash-5.2.21/tests/alias5.sub
+bash-5.2.21/tests/dollar-star2.sub
+bash-5.2.21/tests/case.right
+bash-5.2.21/tests/run-nquote4
+bash-5.2.21/tests/nameref1.sub
+bash-5.2.21/tests/errors8.sub
+bash-5.2.21/tests/trap5.sub
+bash-5.2.21/tests/dollar-at6.sub
+bash-5.2.21/tests/run-dbg-support2
+bash-5.2.21/tests/run-builtins
+bash-5.2.21/tests/nameref16.sub
+bash-5.2.21/tests/run-history
+bash-5.2.21/tests/run-ifs-posix
+bash-5.2.21/tests/exec9.sub
+bash-5.2.21/tests/heredoc1.sub
+bash-5.2.21/tests/read1.sub
+bash-5.2.21/tests/comsub-eof.tests
+bash-5.2.21/tests/jobs2.sub
+bash-5.2.21/tests/read3.sub
+bash-5.2.21/tests/heredoc3.sub
+bash-5.2.21/tests/braces.right
+bash-5.2.21/tests/trap2a.sub
+bash-5.2.21/tests/run-assoc
+bash-5.2.21/tests/case2.sub
+bash-5.2.21/tests/redir3.in1
+bash-5.2.21/tests/run-posixpipe
+bash-5.2.21/tests/nameref14.sub
+bash-5.2.21/tests/lastpipe2.sub
+bash-5.2.21/tests/dollar-at4.sub
+bash-5.2.21/tests/nameref3.sub
+bash-5.2.21/tests/quotearray.tests
+bash-5.2.21/tests/getopts8.sub
+bash-5.2.21/tests/run-dynvar
+bash-5.2.21/tests/run-trap
+bash-5.2.21/tests/assoc2.sub
+bash-5.2.21/tests/builtins1.sub
+bash-5.2.21/tests/dollar-at-star8.sub
+bash-5.2.21/tests/varenv5.sub
+bash-5.2.21/tests/type4.sub
+bash-5.2.21/tests/array26.sub
+bash-5.2.21/tests/nquote2.sub
+bash-5.2.21/tests/redir3.sub
+bash-5.2.21/tests/glob.right
+bash-5.2.21/tests/redir2.sub
+bash-5.2.21/tests/run-vredir
+bash-5.2.21/tests/nquote3.sub
+bash-5.2.21/tests/array27.sub
+bash-5.2.21/tests/varenv4.sub
+bash-5.2.21/tests/dollar-at-star9.sub
+bash-5.2.21/tests/assoc3.sub
+bash-5.2.21/tests/alias6.sub
+bash-5.2.21/tests/posix2syntax.sub
+bash-5.2.21/tests/run-cond
+bash-5.2.21/tests/dollar-star1.sub
+bash-5.2.21/tests/getopts9.sub
+bash-5.2.21/tests/dstack2.tests
+bash-5.2.21/tests/trap6.sub
+bash-5.2.21/tests/nameref2.sub
+bash-5.2.21/tests/dollar-at5.sub
+bash-5.2.21/tests/arith.tests
+bash-5.2.21/tests/lastpipe3.sub
+bash-5.2.21/tests/nameref15.sub
+bash-5.2.21/tests/run-nquote5
+bash-5.2.21/tests/case3.sub
+bash-5.2.21/tests/run-nquote2
+bash-5.2.21/tests/varenv.right
+bash-5.2.21/tests/procsub.tests
+bash-5.2.21/tests/heredoc2.sub
+bash-5.2.21/tests/rhs-exp.right
+bash-5.2.21/tests/read2.sub
+bash-5.2.21/tests/jobs3.sub
+bash-5.2.21/tests/heredoc6.sub
+bash-5.2.21/tests/jobs7.sub
+bash-5.2.21/tests/read6.sub
+bash-5.2.21/tests/shopt.tests
+bash-5.2.21/tests/run-posix2
+bash-5.2.21/tests/comsub.tests
+bash-5.2.21/tests/dollar-star10.sub
+bash-5.2.21/tests/dollar-at1.sub
+bash-5.2.21/tests/appendop1.sub
+bash-5.2.21/tests/nameref11.sub
+bash-5.2.21/tests/more-exp.right
+bash-5.2.21/tests/strip.tests
+bash-5.2.21/tests/nameref6.sub
+bash-5.2.21/tests/trap2.sub
+bash-5.2.21/tests/run-execscript
+bash-5.2.21/tests/alias2.sub
+bash-5.2.21/tests/assoc7.sub
+bash-5.2.21/tests/dollar-star5.sub
+bash-5.2.21/tests/builtins4.sub
+bash-5.2.21/tests/new-exp9.sub
+bash-5.2.21/tests/redir6.sub
+bash-5.2.21/tests/array23.sub
+bash-5.2.21/tests/type1.sub
+bash-5.2.21/tests/array22.sub
+bash-5.2.21/tests/redir7.sub
+bash-5.2.21/tests/intl1.sub
+bash-5.2.21/tests/varenv1.sub
+bash-5.2.21/tests/builtins5.sub
+bash-5.2.21/tests/new-exp8.sub
+bash-5.2.21/tests/execscript
+bash-5.2.21/tests/lastpipe.right
+bash-5.2.21/tests/dollar-star4.sub
+bash-5.2.21/tests/assoc6.sub
+bash-5.2.21/tests/alias3.sub
+bash-5.2.21/tests/set-x1.sub
+bash-5.2.21/tests/run-array2
+bash-5.2.21/tests/trap3.sub
+bash-5.2.21/tests/nameref7.sub
+bash-5.2.21/tests/history.tests
+bash-5.2.21/tests/nameref10.sub
+bash-5.2.21/tests/posixexp.right
+bash-5.2.21/tests/parser1.sub
+bash-5.2.21/tests/jobs.tests
+bash-5.2.21/tests/cond.right
+bash-5.2.21/tests/ifs.right
+bash-5.2.21/tests/posixexp8.sub
+bash-5.2.21/tests/read7.sub
+bash-5.2.21/tests/jobs6.sub
+bash-5.2.21/tests/heredoc7.sub
+bash-5.2.21/tests/heredoc5.sub
+bash-5.2.21/tests/rsh.right
+bash-5.2.21/tests/read5.sub
+bash-5.2.21/tests/jobs4.sub
+bash-5.2.21/tests/case4.sub
+bash-5.2.21/tests/func.right
+bash-5.2.21/tests/dollar-at2.sub
+bash-5.2.21/tests/nameref.tests
+bash-5.2.21/tests/nameref12.sub
+bash-5.2.21/tests/appendop2.sub
+bash-5.2.21/tests/run-posixpat
+bash-5.2.21/tests/extglob2.right
+bash-5.2.21/tests/run-rhs-exp
+bash-5.2.21/tests/trap1.sub
+bash-5.2.21/tests/appendop.right
+bash-5.2.21/tests/nameref5.sub
+bash-5.2.21/tests/assoc4.sub
+bash-5.2.21/tests/tilde2.tests
+bash-5.2.21/tests/vredir.tests
+bash-5.2.21/tests/alias1.sub
+bash-5.2.21/tests/mapfile.tests
+bash-5.2.21/tests/dollar-star6.sub
+bash-5.2.21/tests/parser.tests
+bash-5.2.21/tests/varenv3.sub
+bash-5.2.21/tests/builtins7.sub
+bash-5.2.21/tests/extglob.right
+bash-5.2.21/tests/intl3.sub
+bash-5.2.21/tests/redir5.sub
+bash-5.2.21/tests/errors.tests
+bash-5.2.21/tests/type2.sub
+bash-5.2.21/tests/dbg-support.right
+bash-5.2.21/tests/array20.sub
+bash-5.2.21/tests/nquote4.sub
+bash-5.2.21/tests/type3.sub
+bash-5.2.21/tests/nquote5.sub
+bash-5.2.21/tests/array21.sub
+bash-5.2.21/tests/redir4.sub
+bash-5.2.21/tests/intl2.sub
+bash-5.2.21/tests/arith-for.right
+bash-5.2.21/tests/herestr1.sub
+bash-5.2.21/tests/builtins6.sub
+bash-5.2.21/tests/varenv2.sub
+bash-5.2.21/tests/run-histexpand
+bash-5.2.21/tests/dollar-star7.sub
+bash-5.2.21/tests/assoc5.sub
+bash-5.2.21/tests/read.right
+bash-5.2.21/tests/nameref4.sub
+bash-5.2.21/tests/nameref13.sub
+bash-5.2.21/tests/run-iquote
+bash-5.2.21/tests/dollar-at3.sub
+bash-5.2.21/tests/run-shopt
+bash-5.2.21/tests/redir4.in1
+bash-5.2.21/tests/extglob3.tests
+bash-5.2.21/tests/input.right
+bash-5.2.21/tests/run-arith
+bash-5.2.21/tests/jobs5.sub
+bash-5.2.21/tests/read4.sub
+bash-5.2.21/tests/run-read
+bash-5.2.21/tests/heredoc4.sub
+bash-5.2.21/tests/dbg-support3.sub
+bash-5.2.21/tests/arith.right
+bash-5.2.21/tests/globstar2.sub
+bash-5.2.21/tests/arith4.sub
+bash-5.2.21/tests/run-cprint
+bash-5.2.21/tests/vredir4.sub
+bash-5.2.21/tests/run-tilde
+bash-5.2.21/tests/exp6.sub
+bash-5.2.21/tests/comsub-eof3.sub
+bash-5.2.21/tests/varenv.tests
+bash-5.2.21/tests/procsub.right
+bash-5.2.21/tests/mapfile.data
+bash-5.2.21/tests/rhs-exp.tests
+bash-5.2.21/tests/varenv12.sub
+bash-5.2.21/tests/attr1.sub
+bash-5.2.21/tests/dstack2.right
+bash-5.2.21/tests/quotearray.right
+bash-5.2.21/tests/run-complete
+bash-5.2.21/tests/run-rsh
+bash-5.2.21/tests/glob1.sub
+bash-5.2.21/tests/glob.tests
+bash-5.2.21/tests/comsub-eof.right
+bash-5.2.21/tests/set-e3a.sub
+bash-5.2.21/tests/varenv13.sub
+bash-5.2.21/tests/comsub-eof2.sub
+bash-5.2.21/tests/exp7.sub
+bash-5.2.21/tests/braces.tests
+bash-5.2.21/tests/vredir5.sub
+bash-5.2.21/tests/globstar3.sub
+bash-5.2.21/tests/arith5.sub
+bash-5.2.21/tests/vredir7.sub
+bash-5.2.21/tests/arith7.sub
+bash-5.2.21/tests/globstar1.sub
+bash-5.2.21/tests/comsub-eof0.sub
+bash-5.2.21/tests/exp5.sub
+bash-5.2.21/tests/varenv11.sub
+bash-5.2.21/tests/run-nquote
+bash-5.2.21/tests/glob3.sub
+bash-5.2.21/tests/glob10.sub
+bash-5.2.21/tests/dbg-support2.tests
+bash-5.2.21/tests/quote4.sub
+bash-5.2.21/tests/dynvar.tests
+bash-5.2.21/tests/run-test
+bash-5.2.21/tests/run-new-exp
+bash-5.2.21/tests/run-quotearray
+bash-5.2.21/tests/history.list
+bash-5.2.21/tests/case.tests
+bash-5.2.21/tests/attr2.sub
+bash-5.2.21/tests/run-dirstack
+bash-5.2.21/tests/run-coproc
+bash-5.2.21/tests/extglob1a.sub
+bash-5.2.21/tests/glob2.sub
+bash-5.2.21/tests/varenv10.sub
+bash-5.2.21/tests/exp4.sub
+bash-5.2.21/tests/comsub-eof1.sub
+bash-5.2.21/tests/arith6.sub
+bash-5.2.21/tests/run-intl
+bash-5.2.21/tests/vredir6.sub
+bash-5.2.21/tests/assoc18.sub
+bash-5.2.21/tests/shopt1.sub
+bash-5.2.21/tests/array8.sub
+bash-5.2.21/tests/vredir2.sub
+bash-5.2.21/tests/arith2.sub
+bash-5.2.21/tests/extglob3.right
+bash-5.2.21/tests/run-printf
+bash-5.2.21/tests/varenv14.sub
+bash-5.2.21/tests/comsub-eof5.sub
+bash-5.2.21/tests/rsh1.sub
+bash-5.2.21/tests/run-comsub-posix
+bash-5.2.21/tests/glob6.sub
+bash-5.2.21/tests/arith-for.tests
+bash-5.2.21/tests/quote1.sub
+bash-5.2.21/tests/read.tests
+bash-5.2.21/tests/cond-regexp1.sub
+bash-5.2.21/tests/run-varenv
+bash-5.2.21/tests/extglob2.tests
+bash-5.2.21/tests/appendop.tests
+bash-5.2.21/tests/vredir.right
+bash-5.2.21/tests/iquote1.sub
+bash-5.2.21/tests/tilde2.right
+bash-5.2.21/tests/mapfile.right
+bash-5.2.21/tests/exportfunc1.sub
+bash-5.2.21/tests/parser.right
+bash-5.2.21/tests/extglob.tests
+bash-5.2.21/tests/glob7.sub
+bash-5.2.21/tests/errors.right
+bash-5.2.21/tests/dbg-support.tests
+bash-5.2.21/tests/exp1.sub
+bash-5.2.21/tests/comsub-eof4.sub
+bash-5.2.21/tests/rsh.tests
+bash-5.2.21/tests/varenv15.sub
+bash-5.2.21/tests/func.tests
+bash-5.2.21/tests/arith3.sub
+bash-5.2.21/tests/vredir3.sub
+bash-5.2.21/tests/nameref.right
+bash-5.2.21/tests/rhs-exp1.sub
+bash-5.2.21/tests/array9.sub
+bash-5.2.21/tests/array-at-star
+bash-5.2.21/tests/posixexp.tests
+bash-5.2.21/tests/arith1.sub
+bash-5.2.21/tests/jobs.right
+bash-5.2.21/tests/vredir1.sub
+bash-5.2.21/tests/cond.tests
+bash-5.2.21/tests/ifs.tests
+bash-5.2.21/tests/varenv17.sub
+bash-5.2.21/tests/run-comsub
+bash-5.2.21/tests/exp3.sub
+bash-5.2.21/tests/comsub-eof6.sub
+bash-5.2.21/tests/rsh2.sub
+bash-5.2.21/tests/varenv15.in
+bash-5.2.21/tests/glob5.sub
+bash-5.2.21/tests/run-parser
+bash-5.2.21/tests/quote2.sub
+bash-5.2.21/tests/lastpipe.tests
+bash-5.2.21/tests/exportfunc3.sub
+bash-5.2.21/tests/cond-regexp2.sub
+bash-5.2.21/tests/history.right
+bash-5.2.21/tests/run-ifs
+bash-5.2.21/tests/more-exp.tests
+bash-5.2.21/tests/strip.right
+bash-5.2.21/tests/cond-regexp3.sub
+bash-5.2.21/tests/exportfunc2.sub
+bash-5.2.21/tests/quote3.sub
+bash-5.2.21/tests/glob4.sub
+bash-5.2.21/tests/exp2.sub
+bash-5.2.21/tests/varenv16.sub
+bash-5.2.21/tests/run-all
+bash-5.2.21/tests/README
+bash-5.2.21/tests/shopt.right
+bash-5.2.21/tests/run-procsub
+bash-5.2.21/tests/comsub.right
+bash-5.2.21/tests/assoc13.sub
+bash-5.2.21/tests/run-tilde2
+bash-5.2.21/tests/attr.right
+bash-5.2.21/tests/run-array
+bash-5.2.21/tests/array7.sub
+bash-5.2.21/tests/invert.right
+bash-5.2.21/tests/exp.tests
+bash-5.2.21/tests/new-exp12.sub
+bash-5.2.21/tests/new-exp.tests
+bash-5.2.21/tests/exp12.sub
+bash-5.2.21/tests/comsub6.sub
+bash-5.2.21/tests/histexp6.sub
+bash-5.2.21/tests/getopts.tests
+bash-5.2.21/tests/run-herestr
+bash-5.2.21/tests/array.right
+bash-5.2.21/tests/posixpat.right
+bash-5.2.21/tests/glob9.sub
+bash-5.2.21/tests/iquote.right
+bash-5.2.21/tests/input-line.sub
+bash-5.2.21/tests/history3.sub
+bash-5.2.21/tests/cprint.right
+bash-5.2.21/tests/test.right
+bash-5.2.21/tests/func1.sub
+bash-5.2.21/tests/extglob4.sub
+bash-5.2.21/tests/run-casemod
+bash-5.2.21/tests/dstack.tests
+bash-5.2.21/tests/extglob5.sub
+bash-5.2.21/tests/history2.sub
+bash-5.2.21/tests/unicode1.sub
+bash-5.2.21/tests/glob8.sub
+bash-5.2.21/tests/input-line.sh
+bash-5.2.21/tests/histexp7.sub
+bash-5.2.21/tests/exp13.sub
+bash-5.2.21/tests/run-arith-for
+bash-5.2.21/tests/trap.right
+bash-5.2.21/tests/new-exp13.sub
+bash-5.2.21/tests/run-mapfile
+bash-5.2.21/tests/redir.right
+bash-5.2.21/tests/assoc.tests
+bash-5.2.21/tests/dbg-support.sub
+bash-5.2.21/tests/array6.sub
+bash-5.2.21/tests/assoc12.sub
+bash-5.2.21/tests/assoc10.sub
+bash-5.2.21/tests/array4.sub
+bash-5.2.21/tests/run-extglob
+bash-5.2.21/tests/posixpipe.tests
+bash-5.2.21/tests/new-exp11.sub
+bash-5.2.21/tests/exp11.sub
+bash-5.2.21/tests/comsub5.sub
+bash-5.2.21/tests/varenv18.sub
+bash-5.2.21/tests/posix2.tests
+bash-5.2.21/tests/histexp5.sub
+bash-5.2.21/tests/printf.tests
+bash-5.2.21/tests/run-nquote1
+bash-5.2.21/tests/unicode3.sub
+bash-5.2.21/tests/tilde.right
+bash-5.2.21/tests/set-x.tests
+bash-5.2.21/tests/extglob7.sub
+bash-5.2.21/tests/func2.sub
+bash-5.2.21/tests/comsub-posix.tests
+bash-5.2.21/tests/nquote4.right
+bash-5.2.21/tests/run-redir
+bash-5.2.21/tests/quote.tests
+bash-5.2.21/tests/ifs-posix.right
+bash-5.2.21/tests/run-func
+bash-5.2.21/tests/run-strip
+bash-5.2.21/tests/redir3.in2
+bash-5.2.21/tests/extglob6.sub
+bash-5.2.21/tests/func3.sub
+bash-5.2.21/tests/history1.sub
+bash-5.2.21/tests/exec.right
+bash-5.2.21/tests/unicode2.sub
+bash-5.2.21/tests/tilde3.sub
+bash-5.2.21/tests/casemod.tests
+bash-5.2.21/tests/histexp4.sub
+bash-5.2.21/tests/comsub4.sub
+bash-5.2.21/tests/getopts10.sub
+bash-5.2.21/tests/varenv19.sub
+bash-5.2.21/tests/exp10.sub
+bash-5.2.21/tests/nquote5.tests
+bash-5.2.21/tests/version
+bash-5.2.21/tests/new-exp10.sub
+bash-5.2.21/tests/array5.sub
+bash-5.2.21/tests/test1.sub
+bash-5.2.21/tests/assoc11.sub
+bash-5.2.21/tests/array1.sub
+bash-5.2.21/tests/assoc15.sub
+bash-5.2.21/tests/new-exp14.sub
+bash-5.2.21/tests/varenv21.sub
+bash-5.2.21/tests/exp9.sub
+bash-5.2.21/tests/heredoc.right
+bash-5.2.21/tests/procsub2.sub
+bash-5.2.21/tests/histexp.tests
+bash-5.2.21/tests/exportfunc.right
+bash-5.2.21/tests/history5.sub
+bash-5.2.21/tests/nquote.tests
+bash-5.2.21/tests/extglob2.sub
+bash-5.2.21/tests/nquote1.tests
+bash-5.2.21/tests/run-extglob3
+bash-5.2.21/tests/run-alias
+bash-5.2.21/tests/run-case
+bash-5.2.21/tests/set-e1.sub
+bash-5.2.21/tests/coproc.right
+bash-5.2.21/tests/extglob3.sub
+bash-5.2.21/tests/globstar.tests
+bash-5.2.21/tests/history4.sub
+bash-5.2.21/tests/intl.tests
+bash-5.2.21/tests/comsub1.sub
+bash-5.2.21/tests/histexp1.sub
+bash-5.2.21/tests/varenv20.sub
+bash-5.2.21/tests/exp8.sub
+bash-5.2.21/tests/new-exp15.sub
+bash-5.2.21/tests/run-dbg-support
+bash-5.2.21/tests/complete.tests
+bash-5.2.21/tests/assoc14.sub
+bash-5.2.21/tests/run-exp-tests
+bash-5.2.21/tests/array2.sub
+bash-5.2.21/tests/run-lastpipe
+bash-5.2.21/tests/assoc16.sub
+bash-5.2.21/tests/vredir8.sub
+bash-5.2.21/tests/arith8.sub
+bash-5.2.21/tests/version.mini
+bash-5.2.21/tests/run-extglob2
+bash-5.2.21/tests/nquote2.right
+bash-5.2.21/tests/set-e.tests
+bash-5.2.21/tests/histexp3.sub
+bash-5.2.21/tests/varenv22.sub
+bash-5.2.21/tests/procsub1.sub
+bash-5.2.21/tests/posixexp2.tests
+bash-5.2.21/tests/comsub3.sub
+bash-5.2.21/tests/run-jobs
+bash-5.2.21/tests/history6.sub
+bash-5.2.21/tests/builtins.tests
+bash-5.2.21/tests/extglob1.sub
+bash-5.2.21/tests/func4.sub
+bash-5.2.21/tests/alias.tests
+bash-5.2.21/tests/set-e3.sub
+bash-5.2.21/tests/set-e2.sub
+bash-5.2.21/tests/herestr.right
+bash-5.2.21/tests/nquote3.tests
+bash-5.2.21/tests/comsub2.sub
+bash-5.2.21/tests/histexp2.sub
+bash-5.2.21/tests/new-exp16.sub
+bash-5.2.21/tests/assoc17.sub
+bash-5.2.21/tests/array3.sub
+bash-5.2.21/tests/type.tests
+bash-5.2.21/tests/run-posixexp2
+bash-5.2.21/tests/exec1.sub
+bash-5.2.21/tests/dollar.right
+bash-5.2.21/tests/run-globstar
+bash-5.2.21/tests/posixexp6.sub
+bash-5.2.21/tests/nquote5.right
+bash-5.2.21/tests/redir11.sub
+bash-5.2.21/tests/nameref22.sub
+bash-5.2.21/tests/getopts2.sub
+bash-5.2.21/tests/nameref9.sub
+bash-5.2.21/tests/assoc8.sub
+bash-5.2.21/tests/new-exp6.sub
+bash-5.2.21/tests/dollar-at-star2.sub
+bash-5.2.21/tests/exec12.sub
+bash-5.2.21/tests/COPYRIGHT
+bash-5.2.21/tests/source1.sub
+bash-5.2.21/tests/array10.sub
+bash-5.2.21/tests/redir9.sub
+bash-5.2.21/tests/run-set-x
+bash-5.2.21/tests/quotearray2.sub
+bash-5.2.21/tests/casemod.right
+bash-5.2.21/tests/redir8.sub
+bash-5.2.21/tests/quotearray3.sub
+bash-5.2.21/tests/array11.sub
+bash-5.2.21/tests/printf.right
+bash-5.2.21/tests/run-comsub-eof
+bash-5.2.21/tests/dollar-at-star3.sub
+bash-5.2.21/tests/exec13.sub
+bash-5.2.21/tests/new-exp7.sub
+bash-5.2.21/tests/tilde.tests
+bash-5.2.21/tests/set-x.right
+bash-5.2.21/tests/assoc9.sub
+bash-5.2.21/tests/comsub-posix.right
+bash-5.2.21/tests/nquote4.tests
+bash-5.2.21/tests/errors1.sub
+bash-5.2.21/tests/nameref8.sub
+bash-5.2.21/tests/getopts3.sub
+bash-5.2.21/tests/ifs-posix.tests
+bash-5.2.21/tests/quote.right
+bash-5.2.21/tests/comsub-posix1.sub
+bash-5.2.21/tests/nameref23.sub
+bash-5.2.21/tests/redir10.sub
+bash-5.2.21/tests/printf4.sub
+bash-5.2.21/tests/posixpipe.right
+bash-5.2.21/tests/posixexp7.sub
+bash-5.2.21/tests/read8.sub
+bash-5.2.21/tests/posix2.right
+bash-5.2.21/tests/exec2.sub
+bash-5.2.21/tests/posixexp5.sub
+bash-5.2.21/tests/run-glob-test
+bash-5.2.21/tests/trap.tests
+bash-5.2.21/tests/redir.tests
+bash-5.2.21/tests/nameref21.sub
+bash-5.2.21/tests/assoc.right
+bash-5.2.21/tests/comsub-posix3.sub
+bash-5.2.21/tests/getopts1.sub
+bash-5.2.21/tests/dstack.right
+bash-5.2.21/tests/dollar-at-star10.sub
+bash-5.2.21/tests/errors3.sub
+bash-5.2.21/tests/run-heredoc
+bash-5.2.21/tests/dollar-star9.sub
+bash-5.2.21/tests/exec11.sub
+bash-5.2.21/tests/dollar-at-star1.sub
+bash-5.2.21/tests/new-exp5.sub
+bash-5.2.21/tests/run-minimal
+bash-5.2.21/tests/source2.sub
+bash-5.2.21/tests/quotearray1.sub
+bash-5.2.21/tests/array13.sub
+bash-5.2.21/tests/posixpat.tests
+bash-5.2.21/tests/array.tests
+bash-5.2.21/tests/array12.sub
+bash-5.2.21/tests/dollar-at-star
+bash-5.2.21/tests/iquote.tests
+bash-5.2.21/tests/source3.sub
+bash-5.2.21/tests/new-exp4.sub
+bash-5.2.21/tests/cprint.tests
+bash-5.2.21/tests/exec10.sub
+bash-5.2.21/tests/test.tests
+bash-5.2.21/tests/dollar-star8.sub
+bash-5.2.21/tests/run-set-e
+bash-5.2.21/tests/errors2.sub
+bash-5.2.21/tests/dollar-at-star11.sub
+bash-5.2.21/tests/comsub-posix2.sub
+bash-5.2.21/tests/array2.right
+bash-5.2.21/tests/attr.tests
+bash-5.2.21/tests/nameref20.sub
+bash-5.2.21/tests/invert.tests
+bash-5.2.21/tests/run-errors
+bash-5.2.21/tests/exp.right
+bash-5.2.21/tests/new-exp.right
+bash-5.2.21/tests/posixexp4.sub
+bash-5.2.21/tests/getopts.right
+bash-5.2.21/tests/exec3.sub
+bash-5.2.21/tests/exec7.sub
+bash-5.2.21/tests/precedence.tests
+bash-5.2.21/tests/run-braces
+bash-5.2.21/tests/printf3.sub
+bash-5.2.21/tests/nameref18.sub
+bash-5.2.21/tests/comsub-posix6.sub
+bash-5.2.21/tests/type.right
+bash-5.2.21/tests/errors6.sub
+bash-5.2.21/tests/getopts4.sub
+bash-5.2.21/tests/test-glue-functions
+bash-5.2.21/tests/run-appendop
+bash-5.2.21/tests/herestr.tests
+bash-5.2.21/tests/source7.sub
+bash-5.2.21/tests/varenv9.sub
+bash-5.2.21/tests/dollar-at-star4.sub
+bash-5.2.21/tests/exec14.sub
+bash-5.2.21/tests/quotearray4.sub
+bash-5.2.21/tests/nquote3.right
+bash-5.2.21/tests/array16.sub
+bash-5.2.21/tests/array17.sub
+bash-5.2.21/tests/quotearray5.sub
+bash-5.2.21/tests/new-exp1.sub
+bash-5.2.21/tests/mapfile2.sub
+bash-5.2.21/tests/dollar-at-star5.sub
+bash-5.2.21/tests/varenv8.sub
+bash-5.2.21/tests/builtins.right
+bash-5.2.21/tests/source6.sub
+bash-5.2.21/tests/run-precedence
+bash-5.2.21/tests/alias.right
+bash-5.2.21/tests/getopts5.sub
+bash-5.2.21/tests/errors7.sub
+bash-5.2.21/tests/nameref19.sub
+bash-5.2.21/tests/printf2.sub
+bash-5.2.21/tests/nquote2.tests
+bash-5.2.21/tests/posixexp1.sub
+bash-5.2.21/tests/set-e.right
+bash-5.2.21/tests/exec6.sub
+bash-5.2.21/tests/posixexp2.right
+bash-5.2.21/tests/run-more-exp
+bash-5.2.21/tests/exec4.sub
+bash-5.2.21/tests/posixexp3.sub
+bash-5.2.21/tests/complete.right
+bash-5.2.21/tests/run-type
+bash-5.2.21/tests/comsub-posix5.sub
+bash-5.2.21/tests/run-input-test
+bash-5.2.21/tests/errors5.sub
+bash-5.2.21/tests/ifs1.sub
+bash-5.2.21/tests/getopts7.sub
+bash-5.2.21/tests/coproc.tests
+bash-5.2.21/tests/source4.sub
+bash-5.2.21/tests/globstar.right
+bash-5.2.21/tests/new-exp3.sub
+bash-5.2.21/tests/dollar-at-star7.sub
+bash-5.2.21/tests/intl.right
+bash-5.2.21/tests/array29.sub
+bash-5.2.21/tests/array15.sub
+bash-5.2.21/tests/run-dollars
+bash-5.2.21/tests/prec.right
+bash-5.2.21/tests/exportfunc.tests
+bash-5.2.21/tests/histexp.right
+bash-5.2.21/tests/array14.sub
+bash-5.2.21/tests/array28.sub
+bash-5.2.21/tests/dollar-at-star6.sub
+bash-5.2.21/tests/new-exp2.sub
+bash-5.2.21/tests/mapfile1.sub
+bash-5.2.21/tests/nquote.right
+bash-5.2.21/tests/source5.sub
+bash-5.2.21/tests/nquote1.right
+bash-5.2.21/tests/getopts6.sub
+bash-5.2.21/tests/errors4.sub
+bash-5.2.21/tests/run-exportfunc
+bash-5.2.21/tests/printf1.sub
+bash-5.2.21/tests/run-quote
+bash-5.2.21/tests/posixexp2.sub
+bash-5.2.21/tests/exec5.sub
+bash-5.2.21/tests/run-attr
+bash-5.2.21/tests/heredoc.tests
+bash-5.2.21/tests/misc/wait-bg.tests
+bash-5.2.21/tests/misc/sigint-2.sh
+bash-5.2.21/tests/misc/sigint-3.sh
+bash-5.2.21/tests/misc/test-minus-e.2
+bash-5.2.21/tests/misc/redir-t2.sh
+bash-5.2.21/tests/misc/perf-script
+bash-5.2.21/tests/misc/perftest
+bash-5.2.21/tests/misc/test-minus-e.1
+bash-5.2.21/tests/misc/read-nchars.tests
+bash-5.2.21/tests/misc/dev-tcp.tests
+bash-5.2.21/tests/misc/run-r2.sh
+bash-5.2.21/tests/misc/sigint-4.sh
+bash-5.2.21/tests/misc/sigint-1.sh
+bash-5.2.21/include/systimes.h
+bash-5.2.21/include/posixwait.h
+bash-5.2.21/include/posixstat.h
+bash-5.2.21/include/shtty.h
+bash-5.2.21/include/maxpath.h
+bash-5.2.21/include/filecntl.h
+bash-5.2.21/include/posixtime.h
+bash-5.2.21/include/posixselect.h
+bash-5.2.21/include/posixjmp.h
+bash-5.2.21/include/unionwait.h
+bash-5.2.21/include/chartypes.h
+bash-5.2.21/include/timer.h
+bash-5.2.21/include/stdc.h
+bash-5.2.21/include/typemax.h
+bash-5.2.21/include/gettext.h
+bash-5.2.21/include/ocache.h
+bash-5.2.21/include/ansi_stdlib.h
+bash-5.2.21/include/shmbchar.h
+bash-5.2.21/include/shmbutil.h
+bash-5.2.21/include/posixdir.h
+bash-5.2.21/include/memalloc.h
+bash-5.2.21/include/stat-time.h
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/ABOUT-NLS' -> '/home/user/.cache/dorothy/setup-util/20942/ABOUT-NLS'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/aclocal.m4' -> '/home/user/.cache/dorothy/setup-util/20942/aclocal.m4'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/alias.c' -> '/home/user/.cache/dorothy/setup-util/20942/alias.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/alias.h' -> '/home/user/.cache/dorothy/setup-util/20942/alias.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/array2.c' -> '/home/user/.cache/dorothy/setup-util/20942/array2.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/array.c' -> '/home/user/.cache/dorothy/setup-util/20942/array.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/arrayfunc.c' -> '/home/user/.cache/dorothy/setup-util/20942/arrayfunc.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/arrayfunc.h' -> '/home/user/.cache/dorothy/setup-util/20942/arrayfunc.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/array.h' -> '/home/user/.cache/dorothy/setup-util/20942/array.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/assoc.c' -> '/home/user/.cache/dorothy/setup-util/20942/assoc.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/assoc.h' -> '/home/user/.cache/dorothy/setup-util/20942/assoc.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/AUTHORS' -> '/home/user/.cache/dorothy/setup-util/20942/AUTHORS'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/bashansi.h' -> '/home/user/.cache/dorothy/setup-util/20942/bashansi.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/bashhist.c' -> '/home/user/.cache/dorothy/setup-util/20942/bashhist.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/bashhist.h' -> '/home/user/.cache/dorothy/setup-util/20942/bashhist.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/bashintl.h' -> '/home/user/.cache/dorothy/setup-util/20942/bashintl.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/bashjmp.h' -> '/home/user/.cache/dorothy/setup-util/20942/bashjmp.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/bashline.c' -> '/home/user/.cache/dorothy/setup-util/20942/bashline.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/bashline.h' -> '/home/user/.cache/dorothy/setup-util/20942/bashline.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/bashtypes.h' -> '/home/user/.cache/dorothy/setup-util/20942/bashtypes.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/bracecomp.c' -> '/home/user/.cache/dorothy/setup-util/20942/bracecomp.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/braces.c' -> '/home/user/.cache/dorothy/setup-util/20942/braces.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/builtins' -> '/home/user/.cache/dorothy/setup-util/20942/builtins'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/builtins.h' -> '/home/user/.cache/dorothy/setup-util/20942/builtins.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/ChangeLog' -> '/home/user/.cache/dorothy/setup-util/20942/ChangeLog'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/CHANGES' -> '/home/user/.cache/dorothy/setup-util/20942/CHANGES'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/command.h' -> '/home/user/.cache/dorothy/setup-util/20942/command.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/COMPAT' -> '/home/user/.cache/dorothy/setup-util/20942/COMPAT'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/config-bot.h' -> '/home/user/.cache/dorothy/setup-util/20942/config-bot.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/config.h.in' -> '/home/user/.cache/dorothy/setup-util/20942/config.h.in'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/config-top.h' -> '/home/user/.cache/dorothy/setup-util/20942/config-top.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/configure' -> '/home/user/.cache/dorothy/setup-util/20942/configure'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/configure.ac' -> '/home/user/.cache/dorothy/setup-util/20942/configure.ac'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/conftypes.h' -> '/home/user/.cache/dorothy/setup-util/20942/conftypes.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/copy_cmd.c' -> '/home/user/.cache/dorothy/setup-util/20942/copy_cmd.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/COPYING' -> '/home/user/.cache/dorothy/setup-util/20942/COPYING'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/cross-build' -> '/home/user/.cache/dorothy/setup-util/20942/cross-build'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/CWRU' -> '/home/user/.cache/dorothy/setup-util/20942/CWRU'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/dispose_cmd.c' -> '/home/user/.cache/dorothy/setup-util/20942/dispose_cmd.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/dispose_cmd.h' -> '/home/user/.cache/dorothy/setup-util/20942/dispose_cmd.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/doc' -> '/home/user/.cache/dorothy/setup-util/20942/doc'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/error.c' -> '/home/user/.cache/dorothy/setup-util/20942/error.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/error.h' -> '/home/user/.cache/dorothy/setup-util/20942/error.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/eval.c' -> '/home/user/.cache/dorothy/setup-util/20942/eval.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/examples' -> '/home/user/.cache/dorothy/setup-util/20942/examples'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/execute_cmd.c' -> '/home/user/.cache/dorothy/setup-util/20942/execute_cmd.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/execute_cmd.h' -> '/home/user/.cache/dorothy/setup-util/20942/execute_cmd.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/expr.c' -> '/home/user/.cache/dorothy/setup-util/20942/expr.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/externs.h' -> '/home/user/.cache/dorothy/setup-util/20942/externs.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/findcmd.c' -> '/home/user/.cache/dorothy/setup-util/20942/findcmd.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/findcmd.h' -> '/home/user/.cache/dorothy/setup-util/20942/findcmd.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/flags.c' -> '/home/user/.cache/dorothy/setup-util/20942/flags.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/flags.h' -> '/home/user/.cache/dorothy/setup-util/20942/flags.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/general.c' -> '/home/user/.cache/dorothy/setup-util/20942/general.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/general.h' -> '/home/user/.cache/dorothy/setup-util/20942/general.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/hashcmd.c' -> '/home/user/.cache/dorothy/setup-util/20942/hashcmd.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/hashcmd.h' -> '/home/user/.cache/dorothy/setup-util/20942/hashcmd.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/hashlib.c' -> '/home/user/.cache/dorothy/setup-util/20942/hashlib.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/hashlib.h' -> '/home/user/.cache/dorothy/setup-util/20942/hashlib.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/include' -> '/home/user/.cache/dorothy/setup-util/20942/include'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/input.c' -> '/home/user/.cache/dorothy/setup-util/20942/input.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/input.h' -> '/home/user/.cache/dorothy/setup-util/20942/input.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/INSTALL' -> '/home/user/.cache/dorothy/setup-util/20942/INSTALL'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/jobs.c' -> '/home/user/.cache/dorothy/setup-util/20942/jobs.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/jobs.h' -> '/home/user/.cache/dorothy/setup-util/20942/jobs.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/lib' -> '/home/user/.cache/dorothy/setup-util/20942/lib'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/list.c' -> '/home/user/.cache/dorothy/setup-util/20942/list.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/locale.c' -> '/home/user/.cache/dorothy/setup-util/20942/locale.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/m4' -> '/home/user/.cache/dorothy/setup-util/20942/m4'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/mailcheck.c' -> '/home/user/.cache/dorothy/setup-util/20942/mailcheck.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/mailcheck.h' -> '/home/user/.cache/dorothy/setup-util/20942/mailcheck.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/make_cmd.c' -> '/home/user/.cache/dorothy/setup-util/20942/make_cmd.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/make_cmd.h' -> '/home/user/.cache/dorothy/setup-util/20942/make_cmd.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/Makefile.in' -> '/home/user/.cache/dorothy/setup-util/20942/Makefile.in'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/MANIFEST' -> '/home/user/.cache/dorothy/setup-util/20942/MANIFEST'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/mksyntax.c' -> '/home/user/.cache/dorothy/setup-util/20942/mksyntax.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/NEWS' -> '/home/user/.cache/dorothy/setup-util/20942/NEWS'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/nojobs.c' -> '/home/user/.cache/dorothy/setup-util/20942/nojobs.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/NOTES' -> '/home/user/.cache/dorothy/setup-util/20942/NOTES'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/parser-built' -> '/home/user/.cache/dorothy/setup-util/20942/parser-built'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/parser.h' -> '/home/user/.cache/dorothy/setup-util/20942/parser.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/parse.y' -> '/home/user/.cache/dorothy/setup-util/20942/parse.y'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/patchlevel.h' -> '/home/user/.cache/dorothy/setup-util/20942/patchlevel.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/pathexp.c' -> '/home/user/.cache/dorothy/setup-util/20942/pathexp.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/pathexp.h' -> '/home/user/.cache/dorothy/setup-util/20942/pathexp.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/pathnames.h.in' -> '/home/user/.cache/dorothy/setup-util/20942/pathnames.h.in'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/pcomplete.c' -> '/home/user/.cache/dorothy/setup-util/20942/pcomplete.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/pcomplete.h' -> '/home/user/.cache/dorothy/setup-util/20942/pcomplete.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/pcomplib.c' -> '/home/user/.cache/dorothy/setup-util/20942/pcomplib.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/po' -> '/home/user/.cache/dorothy/setup-util/20942/po'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/POSIX' -> '/home/user/.cache/dorothy/setup-util/20942/POSIX'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/print_cmd.c' -> '/home/user/.cache/dorothy/setup-util/20942/print_cmd.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/quit.h' -> '/home/user/.cache/dorothy/setup-util/20942/quit.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/RBASH' -> '/home/user/.cache/dorothy/setup-util/20942/RBASH'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/README' -> '/home/user/.cache/dorothy/setup-util/20942/README'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/redir.c' -> '/home/user/.cache/dorothy/setup-util/20942/redir.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/redir.h' -> '/home/user/.cache/dorothy/setup-util/20942/redir.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/shell.c' -> '/home/user/.cache/dorothy/setup-util/20942/shell.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/shell.h' -> '/home/user/.cache/dorothy/setup-util/20942/shell.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/sig.c' -> '/home/user/.cache/dorothy/setup-util/20942/sig.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/sig.h' -> '/home/user/.cache/dorothy/setup-util/20942/sig.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/siglist.c' -> '/home/user/.cache/dorothy/setup-util/20942/siglist.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/siglist.h' -> '/home/user/.cache/dorothy/setup-util/20942/siglist.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/stringlib.c' -> '/home/user/.cache/dorothy/setup-util/20942/stringlib.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/subst.c' -> '/home/user/.cache/dorothy/setup-util/20942/subst.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/subst.h' -> '/home/user/.cache/dorothy/setup-util/20942/subst.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/support' -> '/home/user/.cache/dorothy/setup-util/20942/support'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/syntax.h' -> '/home/user/.cache/dorothy/setup-util/20942/syntax.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/test.c' -> '/home/user/.cache/dorothy/setup-util/20942/test.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/test.h' -> '/home/user/.cache/dorothy/setup-util/20942/test.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/tests' -> '/home/user/.cache/dorothy/setup-util/20942/tests'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/trap.c' -> '/home/user/.cache/dorothy/setup-util/20942/trap.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/trap.h' -> '/home/user/.cache/dorothy/setup-util/20942/trap.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/unwind_prot.c' -> '/home/user/.cache/dorothy/setup-util/20942/unwind_prot.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/unwind_prot.h' -> '/home/user/.cache/dorothy/setup-util/20942/unwind_prot.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/variables.c' -> '/home/user/.cache/dorothy/setup-util/20942/variables.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/variables.h' -> '/home/user/.cache/dorothy/setup-util/20942/variables.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/version.c' -> '/home/user/.cache/dorothy/setup-util/20942/version.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/xmalloc.c' -> '/home/user/.cache/dorothy/setup-util/20942/xmalloc.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/xmalloc.h' -> '/home/user/.cache/dorothy/setup-util/20942/xmalloc.h'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/Y2K' -> '/home/user/.cache/dorothy/setup-util/20942/Y2K'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/y.tab.c' -> '/home/user/.cache/dorothy/setup-util/20942/y.tab.c'
+renamed '/home/user/.cache/dorothy/unziptar/26651/bash-5.2.21/y.tab.h' -> '/home/user/.cache/dorothy/setup-util/20942/y.tab.h'
+[32m[1mExtracted![0m
+[?1049l[23;0;0t[F[J[32m[1mDownloaded and extracted [0m[2mhttps://ftp.gnu.org/gnu/bash/bash-5.2.21.tar.gz[0m to [2m/home/user/.cache/dorothy/setup-util/20942/[0m
+[1mBuilding bash...[22m
+[1m[4m[93mYour sudo/root/login password is required to execute the command:[0m
+[0m[2m[1m< [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'install' 'dnf-plugins-core'[0m[22m[0m[2m[1m >[0m
+[G[2KFake sudo: --set-home dnf -y --best --refresh --quiet install dnf-plugins-core[G[2Kuser.annoyance += 1[G[2K[G[2K[F[J[0m[2m[1m< [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'install' 'dnf-plugins-core'[0m[22m[0m[2m[1m >[0m
+Fake sudo: --set-home dnf -y --best --refresh --quiet install dnf-plugins-core
+user.annoyance += 1
+[0m[2m[1m</ [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'install' 'dnf-plugins-core'[0m[22m[0m[2m[1m >[0m[1m[31m[1][0m
+[1m[4m[93mYour sudo/root/login password is required to execute the command:[0m
+[0m[2m[1m< [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'install' 'moreutils'[0m[22m[0m[2m[1m >[0m
+[G[2KFake sudo: --set-home dnf -y --best --refresh --quiet install moreutils[G[2Kuser.annoyance += 1[G[2K[G[2K[F[J[0m[2m[1m< [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'install' 'moreutils'[0m[22m[0m[2m[1m >[0m
+Fake sudo: --set-home dnf -y --best --refresh --quiet install moreutils
+user.annoyance += 1
+[0m[2m[1m</ [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'install' 'moreutils'[0m[22m[0m[2m[1m >[0m[1m[31m[1][0m
+[1m[4m[93mYour sudo/root/login password is required to execute the command:[0m
+[0m[2m[1m< [0m[1m[93m'yum' '-y' '--best' '--quiet' 'install' 'moreutils'[0m[22m[0m[2m[1m >[0m
+[G[2KFake sudo: --set-home yum -y --best --quiet install moreutils[G[2Kuser.annoyance += 1[G[2K[G[2K[F[J[0m[2m[1m< [0m[1m[93m'yum' '-y' '--best' '--quiet' 'install' 'moreutils'[0m[22m[0m[2m[1m >[0m
+Fake sudo: --set-home yum -y --best --quiet install moreutils
+user.annoyance += 1
+[0m[2m[1m</ [0m[1m[93m'yum' '-y' '--best' '--quiet' 'install' 'moreutils'[0m[22m[0m[2m[1m >[0m[1m[31m[1][0m
+[1m[4m[93mYour sudo/root/login password is required to execute the command:[0m
+[0m[2m[1m< [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'groupinstall' 'Development Libraries' 'Development Tools'[0m[22m[0m[2m[1m >[0m
+[G[2KFake sudo: --set-home dnf -y --best --refresh --quiet groupinstall Development L[G[2Kuser.annoyance += 1[G[2K[G[2K[F[J[0m[2m[1m< [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'groupinstall' 'Development Libraries' 'Development Tools'[0m[22m[0m[2m[1m >[0m
+Fake sudo: --set-home dnf -y --best --refresh --quiet groupinstall Development Libraries Development Tools
+user.annoyance += 1
+[0m[2m[1m</ [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'groupinstall' 'Development Libraries' 'Development Tools'[0m[22m[0m[2m[1m >[0m[1m[31m[1][0m
+[1m[4m[93mYour sudo/root/login password is required to execute the command:[0m
+[0m[2m[1m< [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'install' 'clang'[0m[22m[0m[2m[1m >[0m
+[G[2KFake sudo: --set-home dnf -y --best --refresh --quiet install clang[G[2Kuser.annoyance += 1[G[2K[G[2K[F[J[0m[2m[1m< [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'install' 'clang'[0m[22m[0m[2m[1m >[0m
+Fake sudo: --set-home dnf -y --best --refresh --quiet install clang
+user.annoyance += 1
+[0m[2m[1m</ [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'install' 'clang'[0m[22m[0m[2m[1m >[0m[1m[31m[1][0m
+[1m[4m[93mYour sudo/root/login password is required to execute the command:[0m
+[0m[2m[1m< [0m[1m[93m'yum' '-y' '--best' '--quiet' 'install' 'clang'[0m[22m[0m[2m[1m >[0m
+[G[2KFake sudo: --set-home yum -y --best --quiet install clang[G[2Kuser.annoyance += 1[G[2K[G[2K[F[J[0m[2m[1m< [0m[1m[93m'yum' '-y' '--best' '--quiet' 'install' 'clang'[0m[22m[0m[2m[1m >[0m
+Fake sudo: --set-home yum -y --best --quiet install clang
+user.annoyance += 1
+[0m[2m[1m</ [0m[1m[93m'yum' '-y' '--best' '--quiet' 'install' 'clang'[0m[22m[0m[2m[1m >[0m[1m[31m[1][0m
+[1m[4m[93mYour sudo/root/login password is required to execute the command:[0m
+[0m[2m[1m< [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'install' 'cmake'[0m[22m[0m[2m[1m >[0m
+[G[2KFake sudo: --set-home dnf -y --best --refresh --quiet install cmake[G[2Kuser.annoyance += 1[G[2K[G[2K[F[J[0m[2m[1m< [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'install' 'cmake'[0m[22m[0m[2m[1m >[0m
+Fake sudo: --set-home dnf -y --best --refresh --quiet install cmake
+user.annoyance += 1
+[0m[2m[1m</ [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'install' 'cmake'[0m[22m[0m[2m[1m >[0m[1m[31m[1][0m
+[1m[4m[93mYour sudo/root/login password is required to execute the command:[0m
+[0m[2m[1m< [0m[1m[93m'yum' '-y' '--best' '--quiet' 'install' 'cmake'[0m[22m[0m[2m[1m >[0m
+[G[2KFake sudo: --set-home yum -y --best --quiet install cmake[G[2Kuser.annoyance += 1[G[2K[G[2K[F[J[0m[2m[1m< [0m[1m[93m'yum' '-y' '--best' '--quiet' 'install' 'cmake'[0m[22m[0m[2m[1m >[0m
+Fake sudo: --set-home yum -y --best --quiet install cmake
+user.annoyance += 1
+[0m[2m[1m</ [0m[1m[93m'yum' '-y' '--best' '--quiet' 'install' 'cmake'[0m[22m[0m[2m[1m >[0m[1m[31m[1][0m
+[1m[4m[93mYour sudo/root/login password is required to execute the command:[0m
+[0m[2m[1m< [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'install' 'llvm'[0m[22m[0m[2m[1m >[0m
+[G[2KFake sudo: --set-home dnf -y --best --refresh --quiet install llvm[G[2Kuser.annoyance += 1[G[2K[G[2K[F[J[0m[2m[1m< [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'install' 'llvm'[0m[22m[0m[2m[1m >[0m
+Fake sudo: --set-home dnf -y --best --refresh --quiet install llvm
+user.annoyance += 1
+[0m[2m[1m</ [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'install' 'llvm'[0m[22m[0m[2m[1m >[0m[1m[31m[1][0m
+[1m[4m[93mYour sudo/root/login password is required to execute the command:[0m
+[0m[2m[1m< [0m[1m[93m'yum' '-y' '--best' '--quiet' 'install' 'llvm'[0m[22m[0m[2m[1m >[0m
+[G[2K[G[2KFake sudo: --set-home yum -y --best --quiet install llvm[G[2Kuser.annoyance += 1[G[2K[F[J[0m[2m[1m< [0m[1m[93m'yum' '-y' '--best' '--quiet' 'install' 'llvm'[0m[22m[0m[2m[1m >[0m
+Fake sudo: --set-home yum -y --best --quiet install llvm
+user.annoyance += 1
+[0m[2m[1m</ [0m[1m[93m'yum' '-y' '--best' '--quiet' 'install' 'llvm'[0m[22m[0m[2m[1m >[0m[1m[31m[1][0m
+[1m[4m[93mYour sudo/root/login password is required to execute the command:[0m
+[0m[2m[1m< [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'install' 'openssl-devel'[0m[22m[0m[2m[1m >[0m
+[G[2K[G[2KFake sudo: --set-home dnf -y --best --refresh --quiet install openssl-devel[G[2Kuser.annoyance += 1[G[2K[F[J[0m[2m[1m< [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'install' 'openssl-devel'[0m[22m[0m[2m[1m >[0m
+Fake sudo: --set-home dnf -y --best --refresh --quiet install openssl-devel
+user.annoyance += 1
+[0m[2m[1m</ [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'install' 'openssl-devel'[0m[22m[0m[2m[1m >[0m[1m[31m[1][0m
+[1m[4m[93mYour sudo/root/login password is required to execute the command:[0m
+[0m[2m[1m< [0m[1m[93m'yum' '-y' '--best' '--quiet' 'install' 'openssl-devel'[0m[22m[0m[2m[1m >[0m
+[G[2KFake sudo: --set-home yum -y --best --quiet install openssl-devel[G[2Kuser.annoyance += 1[G[2K[G[2K[F[J[0m[2m[1m< [0m[1m[93m'yum' '-y' '--best' '--quiet' 'install' 'openssl-devel'[0m[22m[0m[2m[1m >[0m
+Fake sudo: --set-home yum -y --best --quiet install openssl-devel
+user.annoyance += 1
+[0m[2m[1m</ [0m[1m[93m'yum' '-y' '--best' '--quiet' 'install' 'openssl-devel'[0m[22m[0m[2m[1m >[0m[1m[31m[1][0m
+checking build system type... x86_64-pc-linux-gnu
+checking host system type... x86_64-pc-linux-gnu
+
+Beginning configuration for bash-5.2-release for x86_64-pc-linux-gnu
+
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether the compiler supports GNU C... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to enable C11 features... none needed
+checking for stdio.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for strings.h... yes
+checking for sys/stat.h... yes
+checking for sys/types.h... yes
+checking for unistd.h... yes
+checking for wchar.h... yes
+checking for minix/config.h... no
+checking for sys/param.h... yes
+checking for xlocale.h... no
+checking for sys/time.h... yes
+checking whether it is safe to define __EXTENSIONS__... yes
+checking whether _XOPEN_SOURCE should be defined... no
+checking for special C compiler options needed for large files... no
+checking for _FILE_OFFSET_BITS value needed for large files... no
+checking how to run the C preprocessor... gcc -E
+checking for grep that handles long lines and -e... /usr/bin/grep
+checking for egrep... /usr/bin/grep -E
+checking whether gcc needs -traditional... no
+checking for a BSD-compatible install... /usr/bin/install -c
+checking for ar... ar
+checking for ranlib... ranlib
+checking for bison... bison -y
+checking whether make sets $(MAKE)... yes
+checking for an ANSI C-conforming const... yes
+checking for inline... inline
+checking whether byte ordering is bigendian... no
+checking for preprocessor stringizing operator... yes
+checking for long double... yes
+checking whether char is unsigned... no
+checking for working volatile... yes
+checking for C/C++ restrict keyword... __restrict__
+checking for a race-free mkdir -p... /usr/bin/mkdir -p
+checking for a sed that does not truncate output... /usr/bin/sed
+checking whether NLS is requested... yes
+checking for msgfmt... /usr/bin/msgfmt
+checking for gmsgfmt... /usr/bin/msgfmt
+checking for xgettext... /usr/bin/xgettext
+checking for msgmerge... /usr/bin/msgmerge
+checking whether we are using the GNU C Library 2 or newer... yes
+checking whether the -Werror option is usable... yes
+checking for simple visibility declarations... yes
+checking for size_t... yes
+checking for stdint.h... yes
+checking for working alloca.h... yes
+checking for alloca... yes
+checking for getpagesize... yes
+checking for symlink... yes
+checking for uselocale... yes
+checking for vprintf... yes
+checking for alarm... yes
+checking for fpurge... no
+checking for __fpurge... yes
+checking for snprintf... yes
+checking for vsnprintf... yes
+checking for working mmap... yes
+checking whether integer division by zero raises SIGFPE... yes
+checking for inttypes.h... yes
+checking for unsigned long long int... yes
+checking for inttypes.h... (cached) yes
+checking whether the inttypes.h PRIxNN macros are broken... no
+checking for ld used by gcc... /usr/bin/ld
+checking if the linker (/usr/bin/ld) is GNU ld... yes
+checking for shared library run path origin... done
+checking 32-bit host C ABI... no
+checking for the common suffixes of directories in the library search path... lib64,lib64
+checking whether imported symbols can be declared weak... yes
+checking for pthread.h... yes
+checking for multithread API to use... posix
+checking for pthread_rwlock_t... yes
+checking whether pthread_rwlock_rdlock prefers a writer to a reader... no
+checking for gcc options needed to detect all undeclared functions... none needed
+checking for iconv... yes
+checking for working iconv... yes
+checking for iconv declaration... 
+         extern size_t iconv (iconv_t cd, char * *inbuf, size_t *inbytesleft, char * *outbuf, size_t *outbytesleft);
+checking for argz.h... yes
+checking for inttypes.h... (cached) yes
+checking for limits.h... yes
+checking for unistd.h... (cached) yes
+checking for sys/param.h... (cached) yes
+checking for getcwd... yes
+checking for getegid... yes
+checking for geteuid... yes
+checking for getgid... yes
+checking for getuid... yes
+checking for mempcpy... yes
+checking for munmap... yes
+checking for stpcpy... yes
+checking for strcasecmp... yes
+checking for strdup... yes
+checking for strtoul... yes
+checking for tsearch... yes
+checking for argz_count... yes
+checking for argz_stringify... yes
+checking for argz_next... yes
+checking for __fsetlocking... yes
+checking for localeconv... yes
+checking whether feof_unlocked is declared... yes
+checking whether fgets_unlocked is declared... yes
+checking for bison... bison
+checking version of bison... 3.0.4, ok
+checking for long long int... yes
+checking for wchar_t... yes
+checking for wint_t... yes
+checking whether wint_t is too small... no
+checking for intmax_t... yes
+checking whether printf() supports POSIX/XSI format strings... yes
+checking whether we are using the GNU C Library >= 2.1 or uClibc... yes
+checking for stdint.h... (cached) yes
+checking for SIZE_MAX... yes
+checking for stdint.h... (cached) yes
+checking for working fcntl.h... yes
+checking whether uselocale works... yes
+checking for fake locale system (OpenBSD)... no
+checking for Solaris 11.4 locale system... no
+checking for getlocalename_l... no
+checking for CFPreferencesCopyAppValue... no
+checking for CFLocaleCopyCurrent... no
+checking for CFLocaleCopyPreferredLanguages... no
+checking for flexible array members... yes
+checking for ar... (cached) ar
+checking for ptrdiff_t... yes
+checking for features.h... yes
+checking for stddef.h... yes
+checking for stdlib.h... (cached) yes
+checking for string.h... (cached) yes
+checking for asprintf... yes
+checking for fwprintf... yes
+checking for newlocale... yes
+checking for putenv... yes
+checking for setenv... yes
+checking for setlocale... yes
+checking for snprintf... (cached) yes
+checking for strnlen... yes
+checking for uselocale... (cached) yes
+checking for wcslen... yes
+checking for wcsnlen... yes
+checking for mbrtowc... yes
+checking for wcrtomb... yes
+checking whether _snprintf is declared... no
+checking whether _snwprintf is declared... no
+checking whether getc_unlocked is declared... yes
+checking for nl_langinfo and CODESET... yes
+checking for LC_MESSAGES... yes
+checking for CFPreferencesCopyAppValue... (cached) no
+checking for CFLocaleCopyCurrent... (cached) no
+checking for CFLocaleCopyPreferredLanguages... (cached) no
+checking whether included gettext is requested... no
+checking for GNU gettext in libc... yes
+checking whether to use NLS... yes
+checking where the gettext function comes from... libc
+checking for dirent.h that defines DIR... yes
+checking for library containing opendir... none required
+checking for sys/mkdev.h... no
+checking for sys/sysmacros.h... yes
+checking for inttypes.h... (cached) yes
+checking for unistd.h... (cached) yes
+checking for stdlib.h... (cached) yes
+checking for stdarg.h... yes
+checking for varargs.h... no
+checking for limits.h... (cached) yes
+checking for string.h... (cached) yes
+checking for memory.h... yes
+checking for locale.h... yes
+checking for termcap.h... no
+checking for termio.h... yes
+checking for termios.h... yes
+checking for dlfcn.h... yes
+checking for stdbool.h... yes
+checking for stddef.h... (cached) yes
+checking for stdint.h... (cached) yes
+checking for netdb.h... yes
+checking for pwd.h... yes
+checking for grp.h... yes
+checking for strings.h... (cached) yes
+checking for regex.h... yes
+checking for syslog.h... yes
+checking for ulimit.h... yes
+checking for sys/pte.h... no
+checking for sys/stream.h... no
+checking for sys/select.h... yes
+checking for sys/file.h... yes
+checking for sys/ioctl.h... yes
+checking for sys/mman.h... yes
+checking for sys/param.h... (cached) yes
+checking for sys/random.h... yes
+checking for sys/socket.h... yes
+checking for sys/stat.h... (cached) yes
+checking for sys/time.h... (cached) yes
+checking for sys/times.h... yes
+checking for sys/types.h... (cached) yes
+checking for sys/wait.h... yes
+checking for netinet/in.h... yes
+checking for arpa/inet.h... yes
+checking for sys/ptem.h... no
+checking for sys/resource.h... yes
+checking for working alloca.h... (cached) yes
+checking for alloca... (cached) checking for uid_t in sys/types.h... yes
+checking for working chown... yes
+checking whether getpgrp requires zero arguments... yes
+checking for working strcoll... yes
+checking for __setostype... no
+checking for wait3... yes
+checking for mkfifo... yes
+checking for dup2... yes
+checking for eaccess... yes
+checking for fcntl... yes
+checking for getdtablesize... yes
+checking for getentropy... yes
+checking for getgroups... yes
+checking for gethostname... yes
+checking for getpagesize... (cached) yes
+checking for getpeername... yes
+checking for getrandom... yes
+checking for getrlimit... yes
+checking for getrusage... yes
+checking for gettimeofday... yes
+checking for kill... yes
+checking for killpg... yes
+checking for lstat... yes
+checking for pselect... yes
+checking for readlink... yes
+checking for select... yes
+checking for setdtablesize... no
+checking for setitimer... yes
+checking for tcgetpgrp... yes
+checking for uname... yes
+checking for ulimit... yes
+checking for waitpid... yes
+checking for rename... yes
+checking for bcopy... yes
+checking for bzero... yes
+checking for confstr... yes
+checking for faccessat... yes
+checking for fnmatch... yes
+checking for getaddrinfo... yes
+checking for gethostbyname... yes
+checking for getservbyname... yes
+checking for getservent... yes
+checking for inet_aton... yes
+checking for imaxdiv... yes
+checking for memmove... yes
+checking for pathconf... yes
+checking for putenv... (cached) yes
+checking for raise... yes
+checking for random... yes
+checking for regcomp... yes
+checking for regexec... yes
+checking for setenv... (cached) yes
+checking for setlinebuf... yes
+checking for setlocale... (cached) yes
+checking for setvbuf... yes
+checking for siginterrupt... yes
+checking for strchr... yes
+checking for sysconf... yes
+checking for syslog... yes
+checking for tcgetattr... yes
+checking for times... yes
+checking for ttyname... yes
+checking for tzset... yes
+checking for unsetenv... yes
+checking for vasprintf... yes
+checking for asprintf... (cached) yes
+checking for isascii... yes
+checking for isblank... yes
+checking for isgraph... yes
+checking for isprint... yes
+checking for isspace... yes
+checking for isxdigit... yes
+checking for getpwent... yes
+checking for getpwnam... yes
+checking for getpwuid... yes
+checking for mkstemp... yes
+checking for mkdtemp... yes
+checking for arc4random... no
+checking for getcwd... (cached) yes
+checking for memset... yes
+checking for strcasecmp... (cached) yes
+checking for strcasestr... yes
+checking for strerror... yes
+checking for strftime... yes
+checking for strnlen... (cached) yes
+checking for strpbrk... yes
+checking for strstr... yes
+checking for strtod... yes
+checking for strtol... yes
+checking for strtoul... (cached) yes
+checking for strtoll... yes
+checking for strtoull... yes
+checking for strtoumax... yes
+checking for dprintf... yes
+checking for strchrnul... yes
+checking for strdup... (cached) yes
+checking for libaudit.h... no
+checking whether AUDIT_USER_TTY is declared... yes
+checking whether confstr is declared... yes
+checking whether printf is declared... yes
+checking whether sbrk is declared... yes
+checking whether setregid is declared... yes
+checking whether strcpy is declared... yes
+checking whether strsignal is declared... yes
+checking for setresuid... yes
+checking for setresgid... yes
+checking whether strtold is declared... yes
+checking for broken strtold... no
+checking whether strtol is declared... yes
+checking whether strtoll is declared... yes
+checking whether strtoul is declared... yes
+checking whether strtoull is declared... yes
+checking whether strtoumax is declared... yes
+checking for working mktime... yes
+checking for argz.h... (cached) yes
+checking for errno.h... yes
+checking for fcntl.h... yes
+checking for malloc.h... yes
+checking for stdio_ext.h... yes
+checking for working mmap... (cached) yes
+checking for __argz_count... yes
+checking for __argz_next... yes
+checking for __argz_stringify... yes
+checking for dcgettext... yes
+checking for mempcpy... (cached) yes
+checking for munmap... (cached) yes
+checking for mremap... yes
+checking for stpcpy... (cached) yes
+checking for strcspn... yes
+checking for wctype.h... yes
+checking for wchar.h... (cached) yes
+checking for langinfo.h... yes
+checking for mbstr.h... no
+checking for mbrlen... yes
+checking for mbscasecmp... no
+checking for mbscmp... no
+checking for mbsnrtowcs... yes
+checking for mbsrtowcs... yes
+checking for mbschr... no
+checking for wcrtomb... (cached) yes
+checking for wcscoll... yes
+checking for wcsdup... yes
+checking for wcwidth... yes
+checking for wctype... yes
+checking for wcswidth... yes
+checking whether mbrtowc and mbstate_t are properly declared... (cached) yes
+checking for iswlower... yes
+checking for iswupper... yes
+checking for towlower... yes
+checking for towupper... yes
+checking for iswctype... yes
+checking for wchar_t in wchar.h... yes
+checking for wctype_t in wctype.h... yes
+checking for wint_t in wctype.h... yes
+checking for wcwidth broken with unicode combining characters... no
+checking for locale_charset... no
+checking size of wchar_t... 4
+checking for dlopen in -ldl... yes
+checking for dlopen... yes
+checking for dlclose... yes
+checking for dlsym... yes
+checking type of array argument to getgroups... gid_t
+checking for off_t... yes
+checking for mode_t... yes
+checking for uid_t in sys/types.h... (cached) yes
+checking for pid_t... yes
+checking for size_t... (cached) yes
+checking for uintptr_t... yes
+checking for ssize_t... yes
+checking for time_t... yes
+checking for long long int... (cached) yes
+checking for unsigned long long int... (cached) yes
+checking for sig_atomic_t in signal.h... yes
+checking size of char... 1
+checking size of short... 2
+checking size of int... 4
+checking size of long... 8
+checking size of char *... 8
+checking size of size_t... 8
+checking size of double... 8
+checking size of long long... 8
+checking for u_int... yes
+checking for u_long... yes
+checking for bits16_t... no
+checking for u_bits16_t... no
+checking for bits32_t... no
+checking for u_bits32_t... no
+checking for bits64_t... no
+checking for ptrdiff_t... (cached) yes
+checking whether stat file-mode macros are broken... no
+checking whether #! works in shell scripts... yes
+checking if dup2 fails to clear the close-on-exec flag... no
+checking whether pgrps need synchronization... no
+checking for type of signal functions... posix
+checking for sys_errlist and sys_nerr... yes
+checking whether sys_siglist is declared... yes
+checking for sys_siglist in system C library... yes
+checking for _sys_siglist in signal.h or unistd.h... yes
+checking for _sys_siglist in system C library... yes
+checking for clock_t... yes
+checking for sigset_t... yes
+checking for socklen_t... yes
+checking for quad_t... yes
+checking for type of struct rlimit fields... rlim_t
+checking for intmax_t... yes
+checking for uintmax_t... yes
+checking size of intmax_t... 8
+checking for struct termios.c_line... yes
+checking for struct termio.c_line... yes
+checking for struct dirent.d_ino... checking for struct dirent.d_ino... yes
+yes
+checking for struct dirent.d_fileno... checking for struct dirent.d_fileno... yes
+yes
+checking for struct dirent.d_namlen... checking for struct dirent.d_namlen... no
+no
+checking for struct winsize in sys/ioctl.h and termios.h... sys/ioctl.h
+checking for struct timeval in sys/time.h and time.h... yes
+checking for struct stat.st_blocks... yes
+checking whether struct tm is in sys/time.h or time.h... time.h
+checking for struct tm.tm_zone... yes
+checking for struct timezone in sys/time.h and time.h... yes
+checking for offset of exit status in return status from wait... 8
+checking for struct timespec in <time.h>... yes
+checking for struct stat.st_atim.tv_nsec... yes
+checking whether struct stat.st_atim is of type struct timespec... yes
+checking for sbrk... yes
+checking for working sbrk... yes
+checking for the existence of strsignal... yes
+checking if opendir() opens non-directories... no
+checking whether ulimit can substitute for getdtablesize... yes
+checking whether fpurge is declared... no
+checking to see if getenv can be redefined... yes
+checking if getcwd() will dynamically allocate memory with 0 size... yes
+checking for presence of POSIX-style sigsetjmp/siglongjmp... present
+checking whether or not strcoll and strcmp differ... no
+checking for standard-conformant snprintf... yes
+checking for standard-conformant vsnprintf... yes
+checking for usable strtoimax... checking for strtoimax... yes
+checking whether strtoimax is declared... yes
+yes
+checking for standard-conformant putenv declaration... yes
+checking for standard-conformant unsetenv declaration... yes
+checking for printf floating point output in hex notation... yes
+checking whether fnmatch can be used to check bracket equivalence classes... yes
+checking if signal handlers must be reinstalled when invoked... no
+checking for presence of necessary job control definitions... present
+checking for presence of named pipes... present
+checking whether termios.h defines TIOCGWINSZ... no
+checking whether sys/ioctl.h defines TIOCGWINSZ... yes
+checking for TIOCSTAT in sys/ioctl.h... no
+checking for FIONREAD in sys/ioctl.h... yes
+checking whether WCONTINUED flag to waitpid is unavailable or available but broken... no
+checking for speed_t in sys/types.h... no
+checking whether getpw functions are declared in pwd.h... yes
+checking for unusable real-time signals due to large values... no
+checking for tgetent... no
+checking for tgetent in -ltermcap... no
+checking for tgetent in -ltinfo... no
+checking for tgetent in -lcurses... no
+checking for tgetent in -lncurses... no
+checking for tgetent in -lncursesw... no
+checking which library has the termcap functions... using gnutermcap
+checking whether /dev/fd is available... standard
+checking whether /dev/stdin stdout stderr are available... present
+checking for default mail directory... /var/mail
+checking shared object configuration for loadable builtins... supported
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating builtins/Makefile
+config.status: creating lib/readline/Makefile
+config.status: creating lib/glob/Makefile
+config.status: creating lib/intl/Makefile
+config.status: creating lib/malloc/Makefile
+config.status: creating lib/sh/Makefile
+config.status: creating lib/termcap/Makefile
+config.status: creating lib/tilde/Makefile
+config.status: creating doc/Makefile
+config.status: creating support/Makefile
+config.status: creating po/Makefile.in
+config.status: creating examples/loadables/Makefile
+config.status: creating examples/loadables/Makefile.inc
+config.status: creating examples/loadables/Makefile.sample
+config.status: creating examples/loadables/perl/Makefile
+config.status: creating support/bash.pc
+config.status: creating support/bashbug.sh
+config.status: creating config.h
+config.status: executing po-directories commands
+config.status: creating po/POTFILES
+config.status: creating po/Makefile
+config.status: executing stamp-h commands
+rm -f shell.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c shell.c
+rm -f eval.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c eval.c
+make[1]: Entering directory '/home/user/.cache/dorothy/setup-util/20942/builtins'
+rm -f mkbuiltins.o
+gcc -c  -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2  mkbuiltins.c
+gcc -L/usr/lib -L./lib/termcap -rdynamic -g -O2 -rdynamic -g -O2  -o mkbuiltins mkbuiltins.o -ldl 
+make[1]: Leaving directory '/home/user/.cache/dorothy/setup-util/20942/builtins'
+rm -f execute_cmd.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c execute_cmd.c
+rm -f y.tab.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c y.tab.c
+rm -f general.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c general.c
+rm -f make_cmd.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c make_cmd.c
+rm -f print_cmd.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c print_cmd.c
+rm -f dispose_cmd.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c dispose_cmd.c
+rm -f mksyntax
+gcc -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security  -g -O2   -L/usr/lib -L./lib/termcap -rdynamic -g -O2   -rdynamic -g -O2  -o mksyntax ./mksyntax.c 
+rm -f syntax.c
+./mksyntax -o syntax.c
+/bin/sh ./support/mkversion.sh -b -S . -s release -d 5.2 -o newversion.h \
+	&& mv newversion.h version.h
+rm -f variables.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c variables.c
+rm -f copy_cmd.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c copy_cmd.c
+rm -f error.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c error.c
+rm -f expr.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c expr.c
+rm -f flags.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c flags.c
+rm -f jobs.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c jobs.c
+rm -f subst.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c subst.c
+rm -f hashcmd.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c hashcmd.c
+rm -f hashlib.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c hashlib.c
+rm -f mailcheck.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c mailcheck.c
+rm -f mksignames.o
+gcc -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security  -g -O2  -DBUILDTOOL -c ./support/mksignames.c
+rm -f buildsignames.o
+gcc -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security  -g -O2  -DBUILDTOOL -o buildsignames.o -c ./support/signames.c
+rm -f mksignames
+gcc -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security  -g -O2   -L/usr/lib -L./lib/termcap -rdynamic -g -O2   -rdynamic -g -O2  -o mksignames mksignames.o buildsignames.o 
+rm -f lsignames.h
+./mksignames lsignames.h
+if cmp -s lsignames.h signames.h ; then :; else rm -f signames.h ; cp lsignames.h signames.h ; fi
+rm -f trap.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c trap.c
+rm -f input.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c input.c
+rm -f unwind_prot.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c unwind_prot.c
+rm -f pathexp.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c pathexp.c
+rm -f sig.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c sig.c
+rm -f test.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c test.c
+rm -f version.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c version.c
+rm -f alias.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c alias.c
+rm -f array.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c array.c
+rm -f arrayfunc.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c arrayfunc.c
+rm -f assoc.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c assoc.c
+rm -f braces.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c braces.c
+rm -f bracecomp.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c bracecomp.c
+rm -f bashhist.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c bashhist.c
+rm -f bashline.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c bashline.c
+rm -f list.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c list.c
+rm -f stringlib.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c stringlib.c
+rm -f locale.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c locale.c
+rm -f findcmd.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c findcmd.c
+make[1]: Entering directory '/home/user/.cache/dorothy/setup-util/20942/builtins'
+rm -f builtins.o
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 builtins.c
+rm -f alias.o
+./mkbuiltins -D . alias.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 alias.c || ( rm -f alias.c ; exit 1 )
+rm -f alias.c
+rm -f bind.o
+./mkbuiltins -D . bind.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 bind.c || ( rm -f bind.c ; exit 1 )
+rm -f bind.c
+rm -f break.o
+./mkbuiltins -D . break.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 break.c || ( rm -f break.c ; exit 1 )
+rm -f break.c
+rm -f builtin.o
+./mkbuiltins -D . builtin.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 builtin.c || ( rm -f builtin.c ; exit 1 )
+rm -f builtin.c
+rm -f caller.o
+./mkbuiltins -D . caller.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 caller.c || ( rm -f caller.c ; exit 1 )
+rm -f caller.c
+rm -f cd.o
+./mkbuiltins -D . cd.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 cd.c || ( rm -f cd.c ; exit 1 )
+rm -f cd.c
+rm -f colon.o
+./mkbuiltins -D . colon.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 colon.c || ( rm -f colon.c ; exit 1 )
+rm -f colon.c
+rm -f command.o
+./mkbuiltins -D . command.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 command.c || ( rm -f command.c ; exit 1 )
+rm -f command.c
+rm -f common.o
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 common.c
+rm -f declare.o
+./mkbuiltins -D . declare.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 declare.c || ( rm -f declare.c ; exit 1 )
+rm -f declare.c
+rm -f echo.o
+./mkbuiltins -D . echo.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 echo.c || ( rm -f echo.c ; exit 1 )
+rm -f echo.c
+rm -f enable.o
+./mkbuiltins -D . enable.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 enable.c || ( rm -f enable.c ; exit 1 )
+rm -f enable.c
+rm -f eval.o
+./mkbuiltins -D . eval.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 eval.c || ( rm -f eval.c ; exit 1 )
+rm -f eval.c
+rm -f evalfile.o
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 evalfile.c
+rm -f evalstring.o
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 evalstring.c
+rm -f exec.o
+./mkbuiltins -D . exec.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 exec.c || ( rm -f exec.c ; exit 1 )
+rm -f exec.c
+rm -f exit.o
+./mkbuiltins -D . exit.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 exit.c || ( rm -f exit.c ; exit 1 )
+rm -f exit.c
+rm -f fc.o
+./mkbuiltins -D . fc.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 fc.c || ( rm -f fc.c ; exit 1 )
+rm -f fc.c
+rm -f fg_bg.o
+./mkbuiltins -D . fg_bg.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 fg_bg.c || ( rm -f fg_bg.c ; exit 1 )
+rm -f fg_bg.c
+rm -f hash.o
+./mkbuiltins -D . hash.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 hash.c || ( rm -f hash.c ; exit 1 )
+rm -f hash.c
+rm -f help.o
+./mkbuiltins -D . help.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 help.c || ( rm -f help.c ; exit 1 )
+rm -f help.c
+rm -f history.o
+./mkbuiltins -D . history.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 history.c || ( rm -f history.c ; exit 1 )
+rm -f history.c
+rm -f jobs.o
+./mkbuiltins -D . jobs.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 jobs.c || ( rm -f jobs.c ; exit 1 )
+rm -f jobs.c
+rm -f kill.o
+./mkbuiltins -D . kill.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 kill.c || ( rm -f kill.c ; exit 1 )
+rm -f kill.c
+rm -f let.o
+./mkbuiltins -D . let.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 let.c || ( rm -f let.c ; exit 1 )
+rm -f let.c
+rm -f mapfile.o
+./mkbuiltins -D . mapfile.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 mapfile.c || ( rm -f mapfile.c ; exit 1 )
+rm -f mapfile.c
+rm -f pushd.o
+./mkbuiltins -D . pushd.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 pushd.c || ( rm -f pushd.c ; exit 1 )
+rm -f pushd.c
+rm -f read.o
+./mkbuiltins -D . read.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 read.c || ( rm -f read.c ; exit 1 )
+rm -f read.c
+rm -f return.o
+./mkbuiltins -D . return.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 return.c || ( rm -f return.c ; exit 1 )
+rm -f return.c
+rm -f set.o
+./mkbuiltins -D . set.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 set.c || ( rm -f set.c ; exit 1 )
+rm -f set.c
+rm -f setattr.o
+./mkbuiltins -D . setattr.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 setattr.c || ( rm -f setattr.c ; exit 1 )
+rm -f setattr.c
+rm -f shift.o
+./mkbuiltins -D . shift.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 shift.c || ( rm -f shift.c ; exit 1 )
+rm -f shift.c
+rm -f source.o
+./mkbuiltins -D . source.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 source.c || ( rm -f source.c ; exit 1 )
+rm -f source.c
+rm -f suspend.o
+./mkbuiltins -D . suspend.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 suspend.c || ( rm -f suspend.c ; exit 1 )
+rm -f suspend.c
+rm -f test.o
+./mkbuiltins -D . test.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 test.c || ( rm -f test.c ; exit 1 )
+rm -f test.c
+rm -f times.o
+./mkbuiltins -D . times.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 times.c || ( rm -f times.c ; exit 1 )
+rm -f times.c
+rm -f trap.o
+./mkbuiltins -D . trap.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 trap.c || ( rm -f trap.c ; exit 1 )
+rm -f trap.c
+rm -f type.o
+./mkbuiltins -D . type.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 type.c || ( rm -f type.c ; exit 1 )
+rm -f type.c
+gcc  -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2  -L/usr/lib -L./lib/termcap -rdynamic -g -O2 -rdynamic -g -O2  -o psize.aux ./psize.c
+/bin/sh ./psize.sh > pipesize.h
+rm -f ulimit.o
+./mkbuiltins -D . ulimit.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 ulimit.c || ( rm -f ulimit.c ; exit 1 )
+rm -f ulimit.c
+rm -f umask.o
+./mkbuiltins -D . umask.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 umask.c || ( rm -f umask.c ; exit 1 )
+rm -f umask.c
+rm -f wait.o
+./mkbuiltins -D . wait.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 wait.c || ( rm -f wait.c ; exit 1 )
+rm -f wait.c
+rm -f getopts.o
+./mkbuiltins -D . getopts.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 getopts.c || ( rm -f getopts.c ; exit 1 )
+rm -f getopts.c
+rm -f shopt.o
+./mkbuiltins -D . shopt.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 shopt.c || ( rm -f shopt.c ; exit 1 )
+rm -f shopt.c
+rm -f printf.o
+./mkbuiltins -D . printf.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 printf.c || ( rm -f printf.c ; exit 1 )
+rm -f printf.c
+rm -f getopt.o
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 getopt.c
+rm -f bashgetopt.o
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 bashgetopt.c
+rm -f complete.o
+./mkbuiltins -D . complete.def
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I..  -I.. -I../include -I../lib -I.  -Wno-parentheses -Wno-format-security   -g -O2 complete.c || ( rm -f complete.c ; exit 1 )
+rm -f complete.c
+rm -f libbuiltins.a
+ar cr libbuiltins.a builtins.o alias.o bind.o break.o builtin.o caller.o cd.o colon.o command.o common.o declare.o echo.o enable.o eval.o evalfile.o evalstring.o exec.o exit.o fc.o fg_bg.o hash.o help.o history.o jobs.o kill.o let.o mapfile.o pushd.o read.o return.o set.o setattr.o shift.o source.o suspend.o test.o times.o trap.o type.o ulimit.o umask.o wait.o getopts.o shopt.o printf.o getopt.o bashgetopt.o complete.o
+ranlib libbuiltins.a
+make[1]: Leaving directory '/home/user/.cache/dorothy/setup-util/20942/builtins'
+make[1]: Entering directory '/home/user/.cache/dorothy/setup-util/20942/builtins'
+make[1]: 'pipesize.h' is up to date.
+make[1]: Leaving directory '/home/user/.cache/dorothy/setup-util/20942/builtins'
+rm -f redir.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c redir.c
+rm -f pcomplete.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c pcomplete.c
+rm -f pcomplib.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c pcomplib.c
+rm -f syntax.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c syntax.c
+rm -f xmalloc.o
+gcc  -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security   -g -O2 -c xmalloc.c
+gcc -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security  -g -O2  -DBUILDTOOL -c -o buildversion.o ./version.c
+gcc -DPROGRAM='"bash"' -DCONF_HOSTTYPE='"x86_64"' -DCONF_OSTYPE='"linux-gnu"' -DCONF_MACHTYPE='"x86_64-pc-linux-gnu"' -DCONF_VENDOR='"pc"' -DLOCALEDIR='"/usr/local/share/locale"' -DPACKAGE='"bash"' -DSHELL -DHAVE_CONFIG_H   -I.  -I. -I./include -I./lib  -Wno-parentheses -Wno-format-security  -g -O2   -L/usr/lib -L./lib/termcap -rdynamic -g -O2   -rdynamic -g -O2  -o bashversion ./support/bashversion.c buildversion.o 
+
+	  ***********************************************************
+	  *                                                         *
+	  * GNU bash, version 5.2.21(1)-release (x86_64-pc-linux-gnu)
+	  *                                                         *
+	  ***********************************************************
+
+making lib/glob/libglob.a in ./lib/glob
+make[1]: Entering directory '/home/user/.cache/dorothy/setup-util/20942/lib/glob'
+rm -f glob.o
+gcc -c  -DHAVE_CONFIG_H -DSHELL -I. -I../.. -I../.. -I../../include -I../../lib  -Wno-parentheses -Wno-format-security  -g -O2  glob.c
+rm -f strmatch.o
+gcc -c  -DHAVE_CONFIG_H -DSHELL -I. -I../.. -I../.. -I../../include -I../../lib  -Wno-parentheses -Wno-format-security  -g -O2  strmatch.c
+rm -f smatch.o
+gcc -c  -DHAVE_CONFIG_H -DSHELL -I. -I../.. -I../.. -I../../include -I../../lib  -Wno-parentheses -Wno-format-security  -g -O2  smatch.c
+rm -f xmbsrtowcs.o
+gcc -c  -DHAVE_CONFIG_H -DSHELL -I. -I../.. -I../.. -I../../include -I../../lib  -Wno-parentheses -Wno-format-security  -g -O2  xmbsrtowcs.c
+rm -f gmisc.o
+gcc -c  -DHAVE_CONFIG_H -DSHELL -I. -I../.. -I../.. -I../../include -I../../lib  -Wno-parentheses -Wno-format-security  -g -O2  gmisc.c
+rm -f -f libglob.a
+ar cr libglob.a glob.o strmatch.o smatch.o xmbsrtowcs.o gmisc.o
+test -n "ranlib" && ranlib libglob.a
+make[1]: Leaving directory '/home/user/.cache/dorothy/setup-util/20942/lib/glob'
+making lib/sh/libsh.a in ./lib/sh
+make[1]: Entering directory '/home/user/.cache/dorothy/setup-util/20942/lib/sh'
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   clktck.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   clock.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   getenv.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   oslib.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   setlinebuf.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   strnlen.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   itos.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   zread.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   zwrite.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   shtty.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   shmatch.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   eaccess.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   netconn.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   netopen.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   timeval.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   makepath.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   pathcanon.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   pathphys.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   tmpfile.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   stringlist.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   stringvec.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   spell.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   shquote.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   strtrans.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   snprintf.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   mailstat.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   fmtulong.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   fmtullong.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   fmtumax.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   zcatfd.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   zmapfd.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   winsize.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   wcsdup.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   fpurge.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   zgetline.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   mbscmp.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   uconvert.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   ufuncs.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   casemod.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   input_avail.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   mbscasecmp.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   fnxform.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   unicode.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   shmbchar.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   strvis.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   utf8.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   random.c
+random.c: In function ‘genseed’:
+random.c:93:8: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+   iv = (u_bits32_t)seedrand;  /* let the compiler truncate */
+        ^
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   gettimeofday.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   timers.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   wcsnwidth.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   mbschr.c
+gcc -c   -I. -I../.. -I../.. -I../../lib -I../../include -I.  -DHAVE_CONFIG_H -DSHELL  -Wno-parentheses -Wno-format-security -g -O2   strtoimax.c
+rm -f libsh.a
+ar cr libsh.a clktck.o clock.o getenv.o oslib.o setlinebuf.o strnlen.o itos.o zread.o zwrite.o shtty.o shmatch.o eaccess.o netconn.o netopen.o timeval.o makepath.o pathcanon.o pathphys.o tmpfile.o stringlist.o stringvec.o spell.o shquote.o strtrans.o snprintf.o mailstat.o fmtulong.o fmtullong.o fmtumax.o zcatfd.o zmapfd.o winsize.o wcsdup.o fpurge.o zgetline.o mbscmp.o uconvert.o ufuncs.o casemod.o input_avail.o mbscasecmp.o fnxform.o unicode.o shmbchar.o strvis.o utf8.o random.o gettimeofday.o timers.o wcsnwidth.o mbschr.o strtoimax.o
+test -n "ranlib" && ranlib libsh.a
+make[1]: Leaving directory '/home/user/.cache/dorothy/setup-util/20942/lib/sh'
+making lib/readline/libreadline.a in ./lib/readline
+make[1]: Entering directory '/home/user/.cache/dorothy/setup-util/20942/lib/readline'
+rm -f readline.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  readline.c
+rm -f vi_mode.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  vi_mode.c
+rm -f funmap.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  funmap.c
+rm -f keymaps.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  keymaps.c
+rm -f parens.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  parens.c
+rm -f search.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  search.c
+rm -f rltty.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  rltty.c
+rm -f complete.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  complete.c
+rm -f bind.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  bind.c
+rm -f isearch.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  isearch.c
+rm -f display.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  display.c
+rm -f signals.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  signals.c
+rm -f util.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  util.c
+rm -f kill.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  kill.c
+rm -f undo.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  undo.c
+rm -f macro.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  macro.c
+rm -f input.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  input.c
+rm -f callback.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  callback.c
+rm -f terminal.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  terminal.c
+rm -f text.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  text.c
+rm -f nls.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  nls.c
+rm -f misc.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  misc.c
+rm -f history.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  history.c
+rm -f histexpand.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  histexpand.c
+rm -f histfile.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  histfile.c
+rm -f histsearch.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  histsearch.c
+rm -f shell.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  shell.c
+rm -f savestring.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  savestring.c
+rm -f mbutil.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  mbutil.c
+rm -f tilde.o
+gcc -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  -DREADLINE_LIBRARY -c ./tilde.c
+rm -f colors.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  colors.c
+rm -f parse-colors.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  parse-colors.c
+rm -f xmalloc.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  xmalloc.c
+rm -f xfree.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  xfree.c
+rm -f compat.o
+gcc -c -DHAVE_CONFIG_H -DSHELL   -I. -I/home/user/.cache/dorothy/setup-util/20942 -I../.. -I../../lib -Wno-parentheses -Wno-format-security  -g -O2  compat.c
+rm -f libreadline.a
+ar cr libreadline.a readline.o vi_mode.o funmap.o keymaps.o parens.o search.o rltty.o complete.o bind.o isearch.o display.o signals.o util.o kill.o undo.o macro.o input.o callback.o terminal.o text.o nls.o misc.o history.o histexpand.o histfile.o histsearch.o shell.o savestring.o mbutil.o tilde.o colors.o parse-colors.o xmalloc.o xfree.o compat.o 
+test -n "ranlib" && ranlib libreadline.a
+make[1]: Leaving directory '/home/user/.cache/dorothy/setup-util/20942/lib/readline'
+making lib/readline/libhistory.a in ./lib/readline
+make[1]: Entering directory '/home/user/.cache/dorothy/setup-util/20942/lib/readline'
+rm -f libhistory.a
+ar cr libhistory.a history.o histexpand.o histfile.o histsearch.o shell.o savestring.o mbutil.o xmalloc.o xfree.o
+test -n "ranlib" && ranlib libhistory.a
+make[1]: Leaving directory '/home/user/.cache/dorothy/setup-util/20942/lib/readline'
+making lib/termcap/libtermcap.a in ./lib/termcap
+make[1]: Entering directory '/home/user/.cache/dorothy/setup-util/20942/lib/termcap'
+gcc -c -g -O2 -DHAVE_CONFIG_H  -I. -I../.. -I../.. -I../../lib -I. termcap.c
+gcc -c -g -O2 -DHAVE_CONFIG_H  -I. -I../.. -I../.. -I../../lib -I. tparam.c
+tparam.c: In function ‘memory_out’:
+tparam.c:67:3: warning: implicit declaration of function ‘write’ [-Wimplicit-function-declaration]
+   write (2, "virtual memory exhausted\n", 25);
+   ^~~~~
+rm -f -f libtermcap.a
+ar cr libtermcap.a termcap.o tparam.o
+test -n "ranlib" && ranlib libtermcap.a
+make[1]: Leaving directory '/home/user/.cache/dorothy/setup-util/20942/lib/termcap'
+making lib/tilde/libtilde.a in ./lib/tilde
+make[1]: Entering directory '/home/user/.cache/dorothy/setup-util/20942/lib/tilde'
+gcc -c   -DHAVE_CONFIG_H -DSHELL  -I. -I../.. -I../.. -I../../include -I../../lib -Wno-parentheses -Wno-format-security  -g -O2 tilde.c
+rm -f libtilde.a
+ar cr libtilde.a tilde.o
+test -n "ranlib" && ranlib libtilde.a
+make[1]: Leaving directory '/home/user/.cache/dorothy/setup-util/20942/lib/tilde'
+make[1]: Entering directory '/home/user/.cache/dorothy/setup-util/20942/lib/malloc'
+gcc  -I. -I../.. -I../.. -I../../include -I../../lib  -DHAVE_CONFIG_H -DSHELL  -g -O2 -DRCHECK -Dbotch=programming_error  -Wno-parentheses -Wno-format-security  -c malloc.c
+gcc  -I. -I../.. -I../.. -I../../include -I../../lib  -DHAVE_CONFIG_H -DSHELL  -g -O2 -DRCHECK -Dbotch=programming_error  -Wno-parentheses -Wno-format-security  -c trace.c
+gcc  -I. -I../.. -I../.. -I../../include -I../../lib  -DHAVE_CONFIG_H -DSHELL  -g -O2 -DRCHECK -Dbotch=programming_error  -Wno-parentheses -Wno-format-security  -c stats.c
+gcc  -I. -I../.. -I../.. -I../../include -I../../lib  -DHAVE_CONFIG_H -DSHELL  -g -O2 -DRCHECK -Dbotch=programming_error  -Wno-parentheses -Wno-format-security  -c table.c
+gcc  -I. -I../.. -I../.. -I../../include -I../../lib  -DHAVE_CONFIG_H -DSHELL  -g -O2 -DRCHECK -Dbotch=programming_error  -Wno-parentheses -Wno-format-security  -c watch.c
+rm -f libmalloc.a
+ar cr libmalloc.a malloc.o  trace.o stats.o table.o watch.o
+test -n "ranlib" && ranlib libmalloc.a
+make[1]: Leaving directory '/home/user/.cache/dorothy/setup-util/20942/lib/malloc'
+rm -f bash
+gcc -L./builtins -L./lib/readline -L./lib/readline -L./lib/glob -L./lib/tilde -L./lib/malloc -L./lib/sh  -L/usr/lib -L./lib/termcap -rdynamic -g -O2   -o bash shell.o eval.o y.tab.o general.o make_cmd.o print_cmd.o  dispose_cmd.o execute_cmd.o variables.o copy_cmd.o error.o expr.o flags.o jobs.o subst.o hashcmd.o hashlib.o mailcheck.o trap.o input.o unwind_prot.o pathexp.o sig.o test.o version.o alias.o array.o arrayfunc.o assoc.o braces.o bracecomp.o bashhist.o bashline.o  list.o stringlib.o locale.o findcmd.o redir.o pcomplete.o pcomplib.o syntax.o xmalloc.o  -lbuiltins -lglob -lsh -lreadline -lhistory ./lib/termcap/libtermcap.a -ltilde -lmalloc    -ldl 
+./lib/sh/libsh.a(tmpfile.o): In function `sh_mktmpname':
+/home/user/.cache/dorothy/setup-util/20942/lib/sh/tmpfile.c:160: warning: the use of `mktemp' is dangerous, better use `mkstemp' or `mkdtemp'
+ls -l bash
+-rwxrwxr-x 1 user user 5756808 Jul  4 13:20 bash
+size bash
+   text	   data	    bss	    dec	    hex	filename
+1159345	  37088	  45744	1242177	 12f441	bash
+make[1]: Entering directory '/home/user/.cache/dorothy/setup-util/20942/support'
+rm -f man2html.o
+gcc -c  -DHAVE_CONFIG_H -DSHELL  -I/home/user/.cache/dorothy/setup-util/20942 -I.. -Wno-parentheses -Wno-format-security   -g -O2 man2html.c
+gcc -L/usr/lib -L./lib/termcap -rdynamic -rdynamic -g -O2 man2html.o -o man2html -ldl 		
+make[1]: Leaving directory '/home/user/.cache/dorothy/setup-util/20942/support'
+[32m[1mBuilt bash.[0m
+renamed '/home/user/.cache/dorothy/setup-util/20942/bash' -> '/home/user/.local/bin/bash'
+[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[F[J[1m[4m[93mYour sudo/root/login password is required to execute the command:[0m
+[0m[2m[1m< [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'upgrade' 'bash-completion'[0m[22m[0m[2m[1m >[0m
+[G[2KFake sudo: --set-home dnf -y --best --refresh --quiet upgrade bash-completion[G[2Kuser.annoyance += 1[G[2K[G[2K[F[J[0m[2m[1m< [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'upgrade' 'bash-completion'[0m[22m[0m[2m[1m >[0m
+Fake sudo: --set-home dnf -y --best --refresh --quiet upgrade bash-completion
+user.annoyance += 1
+[0m[2m[1m</ [0m[1m[93m'dnf' '-y' '--best' '--refresh' '--quiet' 'upgrade' 'bash-completion'[0m[22m[0m[2m[1m >[0m[1m[31m[1][0m
+[1m[4m[93mYour sudo/root/login password is required to execute the command:[0m
+[0m[2m[1m< [0m[1m[93m'yum' '-y' '--best' '--quiet' 'upgrade' 'bash-completion'[0m[22m[0m[2m[1m >[0m
+[G[2KFake sudo: --set-home yum -y --best --quiet upgrade bash-completion[G[2Kuser.annoyance += 1[G[2K[G[2K[F[J[0m[2m[1m< [0m[1m[93m'yum' '-y' '--best' '--quiet' 'upgrade' 'bash-completion'[0m[22m[0m[2m[1m >[0m
+Fake sudo: --set-home yum -y --best --quiet upgrade bash-completion
+user.annoyance += 1
+[0m[2m[1m</ [0m[1m[93m'yum' '-y' '--best' '--quiet' 'upgrade' 'bash-completion'[0m[22m[0m[2m[1m >[0m[1m[31m[1][0m
+[1m[4mYour login shell is an outdated version of bash.[0m
+[1m[4mYou will now be prompted now to change it to a more modern shell.[0m
+Would you like to remove the startup message? [5m(y/[25m[5m[31m[1mN[25m[39m[22m[5m)[25m [6n
+[2m[1F[53G[G[JWould you like to remove the startup message? [31m[1mCANCEL[39m[22m
+[1m[4m[93mNo argument configuration found, using user configuration.[0m
+[32m[1mPreference available on this system:[0m [2m/home/user/.local/bin/bash[0m
+
+[0m[7m┌  [0m[7mSelected [bash] at [/home/user/.local/bin/bash][0m[0m[7m  ┐[0m
+[0m[1m┌  [0m[1m[4mUpdate system whitelist[0m[0m[1m  ┐[0m
+[0m┌  [0m[1mAdd to system whitelist [/etc/shells][0m[0m  ┐[0m
+[1m[4m[93mYour sudo/root/login password is required to execute the command:[0m
+[0m[2m[1m< [0m[1m[93m'tee' '-a' '/etc/shells'[0m[22m[0m[2m[1m >[0m
+Fake sudo: --set-home tee -a /etc/shells
+user.annoyance += 1
+[0m[2m[1m</ [0m[1m[93m'tee' '-a' '/etc/shells'[0m[22m[0m[2m[1m >[0m[1m[31m[1][0m
+[32m[1mPreference available on this system:[0m [2m/usr/bin/bash[0m
+
+[0m[7m┌  [0m[7mSelected [bash] at [/usr/bin/bash][0m[0m[7m  ┐[0m
+[0m[1m┌  [0m[1m[4mUpdate system whitelist[0m[0m[1m  ┐[0m
+[32mAlready within the system whitelist [/etc/shells][39m
+[0m[1m[32m└  [0m[1m[4m[32mUpdate system whitelist[0m[0m[1m[32m  ┘[0m
+[0m[1m┌  [0m[1m[4mUpdate login shell for [user][0m[0m[1m  ┐[0m
+[1m[4m[93mYour sudo/root/login password is required to execute the command:[0m
+[0m[2m[1m< [0m[1m[93m'usermod' '--shell' '/usr/bin/bash' 'user'[0m[22m[0m[2m[1m >[0m
+Fake sudo: --set-home usermod --shell /usr/bin/bash user
+user.annoyance += 1
+[0m[2m[1m</ [0m[1m[93m'usermod' '--shell' '/usr/bin/bash' 'user'[0m[22m[0m[2m[1m >[0m[1m[31m[1][0m
+[32m[1mPreference available on this system:[0m [2m/bin/bash[0m
+
+[0m[7m┌  [0m[7mSelected [bash] at [/bin/bash][0m[0m[7m  ┐[0m
+[0m[1m┌  [0m[1m[4mUpdate system whitelist[0m[0m[1m  ┐[0m
+[32mAlready within the system whitelist [/etc/shells][39m
+[0m[1m[32m└  [0m[1m[4m[32mUpdate system whitelist[0m[0m[1m[32m  ┘[0m
+[0m[1m┌  [0m[1m[4mUpdate login shell for [user][0m[0m[1m  ┐[0m
+[1m[4m[93mYour sudo/root/login password is required to execute the command:[0m
+[0m[2m[1m< [0m[1m[93m'usermod' '--shell' '/bin/bash' 'user'[0m[22m[0m[2m[1m >[0m
+Fake sudo: --set-home usermod --shell /bin/bash user
+user.annoyance += 1
+[0m[2m[1m</ [0m[1m[93m'usermod' '--shell' '/bin/bash' 'user'[0m[22m[0m[2m[1m >[0m[1m[31m[1][0m
+[101m[97mPreference unavailable on this system:[0m [2mbash[0m
+[101m[97mPreference unavailable on this system:[0m [2mdash[0m
+[101m[97mPreference unavailable on this system:[0m [2mfish[0m
+[101m[97mPreference unavailable on this system:[0m [2mnu[0m
+[101m[97mPreference unavailable on this system:[0m [2mzsh[0m
+[101m[97mPreference unavailable on this system:[0m [2melvish[0m
+[101m[97mPreference unavailable on this system:[0m [2mksh[0m
+[101m[97mPreference unavailable on this system:[0m [2mxonsh[0m
+[101m[97mPreference unavailable on this system:[0m [2mash[0m
+[101m[97mPreference unavailable on this system:[0m [2mhush[0m
+[32m[1mPreference available on this system:[0m [2m/usr/bin/sh[0m
+
+[0m[7m┌  [0m[7mSelected [sh] at [/usr/bin/sh][0m[0m[7m  ┐[0m
+[0m[1m┌  [0m[1m[4mUpdate system whitelist[0m[0m[1m  ┐[0m
+[32mAlready within the system whitelist [/etc/shells][39m
+[0m[1m[32m└  [0m[1m[4m[32mUpdate system whitelist[0m[0m[1m[32m  ┘[0m
+[0m[1m┌  [0m[1m[4mUpdate login shell for [user][0m[0m[1m  ┐[0m
+[1m[4m[93mYour sudo/root/login password is required to execute the command:[0m
+[0m[2m[1m< [0m[1m[93m'usermod' '--shell' '/usr/bin/sh' 'user'[0m[22m[0m[2m[1m >[0m
+Fake sudo: --set-home usermod --shell /usr/bin/sh user
+user.annoyance += 1
+[0m[2m[1m</ [0m[1m[93m'usermod' '--shell' '/usr/bin/sh' 'user'[0m[22m[0m[2m[1m >[0m[1m[31m[1][0m
+[32m[1mPreference available on this system:[0m [2m/bin/sh[0m
+
+[0m[7m┌  [0m[7mSelected [sh] at [/bin/sh][0m[0m[7m  ┐[0m
+[0m[1m┌  [0m[1m[4mUpdate system whitelist[0m[0m[1m  ┐[0m
+[32mAlready within the system whitelist [/etc/shells][39m
+[0m[1m[32m└  [0m[1m[4m[32mUpdate system whitelist[0m[0m[1m[32m  ┘[0m
+[0m[1m┌  [0m[1m[4mUpdate login shell for [user][0m[0m[1m  ┐[0m
+[1m[4m[93mYour sudo/root/login password is required to execute the command:[0m
+[0m[2m[1m< [0m[1m[93m'usermod' '--shell' '/bin/sh' 'user'[0m[22m[0m[2m[1m >[0m
+Fake sudo: --set-home usermod --shell /bin/sh user
+user.annoyance += 1
+[0m[2m[1m</ [0m[1m[93m'usermod' '--shell' '/bin/sh' 'user'[0m[22m[0m[2m[1m >[0m[1m[31m[1][0m
+[101m[97mPreference unavailable on this system:[0m [2msh[0m
+[101m[97mNo preferred shell was currently installed, as such none were able to be selected.[0m

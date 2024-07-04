@@ -8,3 +8,5 @@ docker run --rm -it issue233 2>&1 | tee log
 cat log | fgrep 'fake sudo' | wc -l # See excessive sudo
 cat log | fgrep 'Selected' # See "automatic?" selections
 ```
+
+![Recorded gif](dorothy.gif)

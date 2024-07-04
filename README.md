@@ -9,4 +9,6 @@ cat log | fgrep 'fake sudo' | wc -l # See excessive sudo
 cat log | fgrep 'Selected' # See "automatic?" selections
 ```
 
+## Recording
+
 ![Recorded gif](dorothy.gif)
